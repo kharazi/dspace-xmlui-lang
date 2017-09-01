@@ -189,137 +189,137 @@
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_recent_submissions">ارسالات اخیر</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityBrowser.java -->
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">Community List</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">Community List</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Communities in DSpace</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">Select a community to browse its collections.</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">لیست جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">لیست جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">جامعه ها در پایگاه داده</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">برای مشاهده مجموعه های یکی از جامعه ها را انتخاب کنید.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.search_scope">Search Scope</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">All of DSpace</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">Search within this community and its collections:</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">Browse by</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Titles</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">Authors</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">Dates</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">Advanced Search</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">Sub-communities within this community</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections">Collections in this community</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">Recent Submissions</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.search_scope">حوزه جستجو</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">در همه پایگاه داده</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">جستجو درون یک جامعه و همه موضوعات آن</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">جستجو بر اساس</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">عنوان</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">نویسنده</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">تاریخ ها</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">جستجو پیشرفته</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">زیر جامعه های درون یک جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections">مجموعه های درون این جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">ارسالی های اخیر</message>
 
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Contact.java -->
-	<message key="xmlui.ArtifactBrowser.Contact.title">Contact us</message>
-	<message key="xmlui.ArtifactBrowser.Contact.trail">Contact us</message>
-	<message key="xmlui.ArtifactBrowser.Contact.head">Contact us</message>
-	<message key="xmlui.ArtifactBrowser.Contact.para1">{0} administrators may be contacted at:</message>
-	<message key="xmlui.ArtifactBrowser.Contact.feedback_label">On-line form</message>
-	<message key="xmlui.ArtifactBrowser.Contact.feedback_link">Feedback</message>
-	<message key="xmlui.ArtifactBrowser.Contact.email">Email</message>
+	<message key="xmlui.ArtifactBrowser.Contact.title">ارتباط با ما</message>
+	<message key="xmlui.ArtifactBrowser.Contact.trail">ارتباط با ما</message>
+	<message key="xmlui.ArtifactBrowser.Contact.head">ارتباط با ما</message>
+	<message key="xmlui.ArtifactBrowser.Contact.para1">{0} مدیران سایت قابل درسترس هستند در:</message>
+	<message key="xmlui.ArtifactBrowser.Contact.feedback_label">فرم آنلاین</message>
+	<message key="xmlui.ArtifactBrowser.Contact.feedback_link">بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.Contact.email">آدرس پستی</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.FeedbackForm.java -->
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.title">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.trail">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.head">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.para1">Thanks for sharing your feedback about the DSpace system. Your comments are appreciated!</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.email">Your Email</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.email_help">This address will be used to follow up on your feedback.</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.comments">Comments</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.submit">Send Feedback</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.title">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.trail">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.head">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.para1">از ارسال بازخورد بسیار سپاسگذاریم. نظرات شما قابل احترام است.</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.email">آدرس پستی شما</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.email_help">آین آدرس برای پاسخ به بازخورد شما مورد استفاده قرار خواهد گرفت.</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.comments">نظرات</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.submit">ارسال بازخورد</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.FeedbackSent.java -->
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.title">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.trail">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.head">Feedback sent</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.para1">Your comments have been received.</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.title">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.trail">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.head">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.para1">نظرات شما دریافت شد.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemViewer.java -->
-	<message key="xmlui.ArtifactBrowser.ItemViewer.trail">View Item</message>
-	<message key="xmlui.ArtifactBrowser.ItemViewer.head_parent_collections">This item appears in the following Collection(s)</message>
-	<message key="xmlui.ArtifactBrowser.ItemViewer.show_simple">Show simple item record</message>
-	<message key="xmlui.ArtifactBrowser.ItemViewer.show_full">Show full item record</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.trail">مشاهده موارد</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.head_parent_collections">این موارد در مجموعه های زیر ظاهر می شود</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.show_simple">نمایش مختصری از سوابق موارد</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.show_full">نمایش کامل سوابق مورد</message>
 
-        <message key="xmlui.ArtifactBrowser.ItemViewer.withdrawn">This item has been withdrawn and is no longer available.</message>
+        <message key="xmlui.ArtifactBrowser.ItemViewer.withdrawn">این مورد حذف شده است و دیگر در دسترس نیست.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
         <!-- Note: As of DSpace 6.0, org.dspace.app.xmlui.aspect.artifactbrowser.Navigation has been removed. -->
         <!-- The following i18n keys will be left as is as they're referenced by the Discovery's Navigation
          but in future, they should be refactored to a more relevant key prefix -->
-	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">Browse</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">All of DSpace</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Communities &amp; Collections</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titles</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Authors</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">همه پایگاه داده</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">جامعه ها و مجموعه ها</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">عناوین</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">نویسندگان</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">موضوعات</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">By Issue Date</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">By Submit Date</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_this_collection">This Collection</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_this_community">This Community</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">بر اساس تاریخ</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">بر اساس تاریخ ارسال</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_this_collection">این مجموعه</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_this_community">این جامعه</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.SimpleSearch.java -->
         <!-- Note: As of DSpace 6.0, org.dspace.app.xmlui.aspect.artifactbrowser.SimpleSearch has been removed. -->
         <!-- The following i18n keys will be left as is as they're referenced by the Discovery's SimpleSearch
          but in future, they should be refactored to a more relevant key prefix -->
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.title">Search</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.trail">Search</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.head">Search</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.search_scope">Search Scope</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.full_text_search">Full Text Search</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.title">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.trail">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.head">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.search_scope">حوزه جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.full_text_search">جستجو کامل متن</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.RestrictedItem.java -->
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.title">This resource is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.trail">Restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_resource">This resource is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_community">This community is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_collection">This collection is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_item">This item is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_bitstream">This bitstream is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_resource">You do not have the credentials to access the restricted resource.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_community">You do not have the credentials to access the restricted community <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_collection">You do not have the credentials to access the restricted collection <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_item">You do not have the credentials to access the restricted item <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_bitstream">You do not have the credentials to access the restricted bitstream <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_collection">collection</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_community">community</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_bitstream">bitstream</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_item">item</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_resource">resource</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.unknown">unknown</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.login">Proceed to login screen</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.title">این منبع محدود شده است.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.trail">محدود شده است.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_resource">این منبع محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_community">این جامعه محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_collection">این مجموعه محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_item">این مورد محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_bitstream">این دنباله بیتی محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_resource">شما اجازه دسترسی به منابع محدود شده را ندارید</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_community">شما اجازه دسترسی به جامعه محدود شده را ندارید<b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_collection">شما اجازه دسترسی به مجموعه محدود شده را ندارید <b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_item">شما اجازه دسترسی به مورد محدود شده را ندارید<b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_bitstream">شما اجازه دسترسی به دنباله بیتی محدود شده را ندارید<b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_collection">مجموعه</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_community">جامعه</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_bitstream">دنباله بیتی </message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_item">مورد</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_resource">منابع</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.unknown">نامشخص</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.login">به صفحه ورود وارد شوید</message>
 
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.head_item_withdrawn">This item is withdrawn</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_withdrawn">The selected item is withdrawn and is no longer available.</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted_auth">The selected item is access restricted and requires credentials to view. Please login to access the item.</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">Your user account does not have the credentials to view this item. Please contact the system administrator if you have any questions.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.head_item_withdrawn">این مورد حذف شده است.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_withdrawn">این مورد حدف شده است و دیگر قابل دسترس نیست.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted_auth">برای مشاهده این مورد محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">نام کاربری شما اجازه دسترسی برای مشاهده این مورد را ندارد. در صورت سوال با مدیریت سایت تماس حاصل کنید.</message>
         
 	<!-- Authentication messages used at the top of the login page:  -->
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">The item is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">The item you are attempting to access is a restricted item and requires credentials to view. Please login below to access the item.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">مورد محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">برای مشاهده این مورد محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
 
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.choose_month">Monthly Reports</message>
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.report.title">Statistical Summary</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.choose_month">گزارش ماهیانه</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.report.title">خلاصه ای از اطلاعات اماری</message>
 
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.title">No reports currently available</message>
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">There are currently no reports available for this service.  Please check back later.</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.title">گزارشی در حال حاضر وجود ندارد</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">در حال حاضر گزارشی برای مشاهده این سرویس وجود ندارد. لطفاً بعداً مجدداً سعی کنید.</message>
 
     <!-- Authentication messages used for bitstream authentication -->
-	<message key="xmlui.BitstreamReader.auth_header">The file is restricted</message>
-	<message key="xmlui.BitstreamReader.auth_message">The file you are attempting to access is a restricted file and requires credentials to view. Please login below to access the file.</message>
+	<message key="xmlui.BitstreamReader.auth_header">فایل محدود شده است.</message>
+	<message key="xmlui.BitstreamReader.auth_message">برای مشاهده این فایل محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
 
 	<!-- Export Archive download messages -->
-	<message key="xmlui.ItemExportDownloadReader.auth_header">This export archive is restricted.</message>
-	<message key="xmlui.ItemExportDownloadReader.auth_message">The export archive you are attempting to access is a restricted resource and requires credentials to view. Please login below to access the export archive.</message>
+	<message key="xmlui.ItemExportDownloadReader.auth_header">این آرشیو صادره محدود شده است.</message>
+	<message key="xmlui.ItemExportDownloadReader.auth_message">برای مشاهده این آرشیو صادره محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
 
 
 	<!-- REQUEST COPY -->
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.title">Request a copy of the document</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">Request a copy of the document</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Request a copy of the document</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">Users of this system, can login to view this document.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">Login</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.title">درخواست یک کپی از سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">درخواست یک کپی از سند </message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.head">درخواست یک کپی از سند </message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">کاربران این سیستم میتوانند وارد سیستم شوند و سند را مشاهده کنند.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">ورود</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Enter the following information to request a copy of the document from the responsible person.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">Your e-mail address</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">آدرس پس الکترونیکی شما</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">This email address is used for sending the document.</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">E-mail is mandatory</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message">Message</message>
@@ -374,7 +374,7 @@
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.head">Change permissions request</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">You may use this occasion to reconsider the access restrictions on the document (to avoid having to respond to these requests), if there is no reason to keep it restricted. To do so, after inserting your name and e-mail (for authentication), click the button "Change to Open Access".</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name">Name</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">E-mail</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">پست الکترونیکی</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name.error">The name is required</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email.error">The e-mail address is required</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.changeToOpen">Change to open access</message>
@@ -1392,7 +1392,7 @@
 	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_head">Search Results</message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.policy_currentGroup">Select a group</message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.label_search">Search for a group</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.submit_search_groups">Search</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.submit_search_groups">جستجو</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_action">Select the action</message>
 
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_name">Name</message>
@@ -1695,7 +1695,7 @@
 	<message key="xmlui.administrative.mapper.MapperMain.para2">This is the item mapper tool that allows collection administrators to map items from other collections into this collection. You can search for items from other collections and map them, or browse the list of currently mapped items.</message>
 	<message key="xmlui.administrative.mapper.MapperMain.stat_label">Statistics</message>
 	<message key="xmlui.administrative.mapper.MapperMain.stat_info"><strong>{0} of {1}</strong> items in this collection are mapped in from other collections</message>
-	<message key="xmlui.administrative.mapper.MapperMain.search_label">Search</message>
+	<message key="xmlui.administrative.mapper.MapperMain.search_label">جستجو</message>
 	<message key="xmlui.administrative.mapper.MapperMain.submit_search">Search Items</message>
 	<message key="xmlui.administrative.mapper.MapperMain.submit_browse">Browse mapped items</message>
 	<message key="xmlui.administrative.mapper.MapperMain.no_add">(Requires the collection ADD privilege)</message>
@@ -2164,7 +2164,7 @@
 			<a href="http://dspace.org">http://dspace.org</a>
 		</p>
 	</message>
-	<message key="xmlui.dri2xhtml.structural.contact-link">Contact Us</message>
+	<message key="xmlui.dri2xhtml.structural.contact-link">ارتباط با ما</message>
 	<message key="xmlui.dri2xhtml.structural.feedback-link">Send Feedback</message>
 
 	<message key="xmlui.dri2xhtml.structural.head-subtitle">DSpace Repository</message>
@@ -2381,16 +2381,16 @@
   <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.nonauthority">Local value "@1@" (not in Naming Authority)</message>
 
   <!-- mobile theme -->
-  <message key="xmlui.mobile.home_mobile">DSpace Mobile</message>
-  <message key="xmlui.mobile.search_all">Search ALL</message>
-  <message key="xmlui.mobile.browse_all">Browse ALL by</message>
-  <message key="xmlui.mobile.browse_date">Date</message>
-  <message key="xmlui.mobile.browse_author">Author</message>
-  <message key="xmlui.mobile.browse_title">Title</message>
+  <message key="xmlui.mobile.home_mobile">پایگاه داده</message>
+  <message key="xmlui.mobile.search_all">جستجو همه</message>
+  <message key="xmlui.mobile.browse_all">جستجو همه بر اساس</message>
+  <message key="xmlui.mobile.browse_date">تاریخ</message>
+  <message key="xmlui.mobile.browse_author">نویسنده</message>
+  <message key="xmlui.mobile.browse_title">عنوان</message>
   <message key="xmlui.mobile.browse_subject">موضوع</message>
-  <message key="xmlui.mobile.related_google_scholar">Related</message>
-  <message key="xmlui.mobile.items_in_google_scholar">Items in Google Scholar</message>
-  <message key="xmlui.mobile.download">Download</message>
+  <message key="xmlui.mobile.related_google_scholar">موارد مرتبط</message>
+  <message key="xmlui.mobile.items_in_google_scholar">موارد موجود در گوگل اسکولار</message>
+  <message key="xmlui.mobile.download">دانلود</message>
 
 
     <!-- Versioning -->
@@ -2497,8 +2497,8 @@
 
 
     <!-- org.dspace.app.xmlui.Submission.submit.StartSubmissionLookupStep -->
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_lookup">Search</message>
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.title">Publication Search</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_lookup">جستجو</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.title">Publication جستجو</message>
     <message key="xmlui.Submission.submit.StartSubmissionLookupStep.lookup_help">Fill in a publication ID, DOI, Title or Author and then press "Search".  A list of all matching publications will be shown to you to select in order to proceed with the submission process.</message>
     <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_publication_item">Imported publication Record</message>
     <message key="xmlui.Submission.submit.progressbar.lookup">Lookup</message>

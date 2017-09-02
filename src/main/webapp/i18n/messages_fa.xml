@@ -929,7 +929,7 @@
 	<message key="xmlui.Submission.workflow.PerformTaskStep.approve_submit">تأیید مورد</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.commit_help">هنگامی که مورد را ویرایش کرده اید، از این گزینه برای ارسال مورد به بایگانی استفاده کنید. </message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.commit_submit">تأیید جهت آرشیو</message>
-	<message key="xmlui.Submission.workflow.PerformTaskStep.reject_help">اگر این مورد را بازبینی کرده اید و آن را <strong> نا</ strong>مناسب برای ورود به مجموعه انتخاب کرده اید، "رد" را انتخاب کنید. از شما خواسته می شود که پیامی را وارد کنید که نشان می دهد چرا این مورد نامناسب است و آیا فرستنده باید چیزی را تغییر دهد و دوباره ارسال کند. </message>
+	<message key="xmlui.Submission.workflow.PerformTaskStep.reject_help">اگر این مورد را بازبینی کرده اید و آن را <strong> نا</strong>مناسب برای ورود به مجموعه انتخاب کرده اید، "رد" را انتخاب کنید. از شما خواسته می شود که پیامی را وارد کنید که نشان می دهد چرا این مورد نامناسب است و آیا فرستنده باید چیزی را تغییر دهد و دوباره ارسال کند. </message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.reject_submit">رد مورد</message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.edit_help">این گزینه را برای تغییر متاداده مورد انتخاب کنید. </message>
 	<message key="xmlui.Submission.workflow.PerformTaskStep.edit_submit">ویرایش متادیتا</message>

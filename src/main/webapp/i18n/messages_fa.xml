@@ -65,9 +65,9 @@
 	<!--
 		This section is for feed syndications (RSS, atom, etc)
 	-->
-	<message key="xmlui.feed.general_description">The DSpace digital repository system captures, stores, indexes, preserves, and distributes digital research material.</message>
-    <message key="xmlui.feed.header">RSS Feeds</message>
-	<message key="xmlui.feed.logo_title">The Channel Image</message>
+	<message key="xmlui.feed.general_description">سیستم مخزن دیجیتال ضبط، ذخیره، شاخص، نگهداری و توزیع مواد پژوهشی دیجیتال است.</message>
+    <message key="xmlui.feed.header">RSS ها</message>
+	<message key="xmlui.feed.logo_title">تصویر کانال</message>
 	<message key="xmlui.feed.untitled">بدون_تایتل</message>
 
 	<!--
@@ -189,230 +189,230 @@
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_recent_submissions">ارسالات اخیر</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityBrowser.java -->
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">Community List</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">Community List</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Communities in DSpace</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">Select a community to browse its collections.</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">لیست جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">لیست جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">جامعه ها در پایگاه داده</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">برای مشاهده مجموعه های یکی از جامعه ها را انتخاب کنید.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.search_scope">Search Scope</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">All of DSpace</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">Search within this community and its collections:</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">Browse by</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Titles</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">Authors</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">Dates</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">Advanced Search</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">Sub-communities within this community</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections">Collections in this community</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">Recent Submissions</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.search_scope">حوزه جستجو</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">در همه پایگاه داده</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">جستجو درون یک جامعه و همه موضوعات آن</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">جستجو بر اساس</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">عنوان</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">نویسنده</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">تاریخ ها</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">جستجو پیشرفته</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">زیر جامعه های درون یک جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections">مجموعه های درون این جامعه</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">ارسالی های اخیر</message>
 
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Contact.java -->
-	<message key="xmlui.ArtifactBrowser.Contact.title">Contact us</message>
-	<message key="xmlui.ArtifactBrowser.Contact.trail">Contact us</message>
-	<message key="xmlui.ArtifactBrowser.Contact.head">Contact us</message>
-	<message key="xmlui.ArtifactBrowser.Contact.para1">{0} administrators may be contacted at:</message>
-	<message key="xmlui.ArtifactBrowser.Contact.feedback_label">On-line form</message>
-	<message key="xmlui.ArtifactBrowser.Contact.feedback_link">Feedback</message>
-	<message key="xmlui.ArtifactBrowser.Contact.email">Email</message>
+	<message key="xmlui.ArtifactBrowser.Contact.title">ارتباط با ما</message>
+	<message key="xmlui.ArtifactBrowser.Contact.trail">ارتباط با ما</message>
+	<message key="xmlui.ArtifactBrowser.Contact.head">ارتباط با ما</message>
+	<message key="xmlui.ArtifactBrowser.Contact.para1">{0} مدیران سایت قابل درسترس هستند در:</message>
+	<message key="xmlui.ArtifactBrowser.Contact.feedback_label">فرم آنلاین</message>
+	<message key="xmlui.ArtifactBrowser.Contact.feedback_link">بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.Contact.email">آدرس پستی</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.FeedbackForm.java -->
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.title">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.trail">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.head">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.para1">Thanks for sharing your feedback about the DSpace system. Your comments are appreciated!</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.email">Your Email</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.email_help">This address will be used to follow up on your feedback.</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.comments">Comments</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackForm.submit">Send Feedback</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.title">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.trail">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.head">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.para1">از ارسال بازخورد بسیار سپاسگذاریم. نظرات شما قابل احترام است.</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.email">آدرس پستی شما</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.email_help">آین آدرس برای پاسخ به بازخورد شما مورد استفاده قرار خواهد گرفت.</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.comments">نظرات</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackForm.submit">ارسال بازخورد</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.FeedbackSent.java -->
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.title">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.trail">Give feedback</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.head">Feedback sent</message>
-	<message key="xmlui.ArtifactBrowser.FeedbackSent.para1">Your comments have been received.</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.title">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.trail">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.head">ارسال بازخورد</message>
+	<message key="xmlui.ArtifactBrowser.FeedbackSent.para1">نظرات شما دریافت شد.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemViewer.java -->
-	<message key="xmlui.ArtifactBrowser.ItemViewer.trail">View Item</message>
-	<message key="xmlui.ArtifactBrowser.ItemViewer.head_parent_collections">This item appears in the following Collection(s)</message>
-	<message key="xmlui.ArtifactBrowser.ItemViewer.show_simple">Show simple item record</message>
-	<message key="xmlui.ArtifactBrowser.ItemViewer.show_full">Show full item record</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.trail">مشاهده موارد</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.head_parent_collections">این موارد در مجموعه های زیر ظاهر می شود</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.show_simple">نمایش مختصری از سوابق موارد</message>
+	<message key="xmlui.ArtifactBrowser.ItemViewer.show_full">نمایش کامل سوابق مورد</message>
 
-        <message key="xmlui.ArtifactBrowser.ItemViewer.withdrawn">This item has been withdrawn and is no longer available.</message>
+        <message key="xmlui.ArtifactBrowser.ItemViewer.withdrawn">این مورد حذف شده است و دیگر در دسترس نیست.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
         <!-- Note: As of DSpace 6.0, org.dspace.app.xmlui.aspect.artifactbrowser.Navigation has been removed. -->
         <!-- The following i18n keys will be left as is as they're referenced by the Discovery's Navigation
          but in future, they should be refactored to a more relevant key prefix -->
-	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">Browse</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">All of DSpace</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Communities &amp; Collections</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titles</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Authors</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">همه پایگاه داده</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">جامعه ها و مجموعه ها</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">عناوین</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">نویسندگان</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">موضوعات</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">By Issue Date</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">By Submit Date</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_this_collection">This Collection</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_this_community">This Community</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">بر اساس تاریخ</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">بر اساس تاریخ ارسال</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_this_collection">این مجموعه</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_this_community">این جامعه</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.SimpleSearch.java -->
         <!-- Note: As of DSpace 6.0, org.dspace.app.xmlui.aspect.artifactbrowser.SimpleSearch has been removed. -->
         <!-- The following i18n keys will be left as is as they're referenced by the Discovery's SimpleSearch
          but in future, they should be refactored to a more relevant key prefix -->
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.title">Search</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.trail">Search</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.head">Search</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.search_scope">Search Scope</message>
-	<message key="xmlui.ArtifactBrowser.SimpleSearch.full_text_search">Full Text Search</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.title">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.trail">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.head">جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.search_scope">حوزه جستجو</message>
+	<message key="xmlui.ArtifactBrowser.SimpleSearch.full_text_search">جستجو کامل متن</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.RestrictedItem.java -->
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.title">This resource is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.trail">Restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_resource">This resource is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_community">This community is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_collection">This collection is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_item">This item is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_bitstream">This bitstream is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_resource">You do not have the credentials to access the restricted resource.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_community">You do not have the credentials to access the restricted community <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_collection">You do not have the credentials to access the restricted collection <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_item">You do not have the credentials to access the restricted item <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_bitstream">You do not have the credentials to access the restricted bitstream <b>{0}</b>.</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_collection">collection</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_community">community</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_bitstream">bitstream</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_item">item</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_resource">resource</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.unknown">unknown</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.login">Proceed to login screen</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.title">این منبع محدود شده است.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.trail">محدود شده است.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_resource">این منبع محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_community">این جامعه محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_collection">این مجموعه محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_item">این مورد محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.head_bitstream">این دنباله بیتی محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_resource">شما اجازه دسترسی به منابع محدود شده را ندارید</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_community">شما اجازه دسترسی به جامعه محدود شده را ندارید<b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_collection">شما اجازه دسترسی به مجموعه محدود شده را ندارید <b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_item">شما اجازه دسترسی به مورد محدود شده را ندارید<b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.para_bitstream">شما اجازه دسترسی به دنباله بیتی محدود شده را ندارید<b>{0}</b>.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_collection">مجموعه</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_community">جامعه</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_bitstream">دنباله بیتی </message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_item">مورد</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.type_resource">منابع</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.unknown">نامشخص</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.login">به صفحه ورود وارد شوید</message>
 
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.head_item_withdrawn">This item is withdrawn</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_withdrawn">The selected item is withdrawn and is no longer available.</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted_auth">The selected item is access restricted and requires credentials to view. Please login to access the item.</message>
-        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">Your user account does not have the credentials to view this item. Please contact the system administrator if you have any questions.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.head_item_withdrawn">این مورد حذف شده است.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_withdrawn">این مورد حدف شده است و دیگر قابل دسترس نیست.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted_auth">برای مشاهده این مورد محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
+        <message key="xmlui.ArtifactBrowser.RestrictedItem.para_item_restricted">نام کاربری شما اجازه دسترسی برای مشاهده این مورد را ندارد. در صورت سوال با مدیریت سایت تماس حاصل کنید.</message>
         
 	<!-- Authentication messages used at the top of the login page:  -->
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">The item is restricted</message>
-	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">The item you are attempting to access is a restricted item and requires credentials to view. Please login below to access the item.</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_header">مورد محدود شده است</message>
+	<message key="xmlui.ArtifactBrowser.RestrictedItem.auth_message">برای مشاهده این مورد محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
 
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.choose_month">Monthly Reports</message>
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.report.title">Statistical Summary</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.choose_month">گزارش ماهیانه</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.report.title">خلاصه ای از اطلاعات اماری</message>
 
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.title">No reports currently available</message>
-    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">There are currently no reports available for this service.  Please check back later.</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.title">گزارشی در حال حاضر وجود ندارد</message>
+    <message key="xmlui.ArtifactBrowser.StatisticsViewer.no_report.text">در حال حاضر گزارشی برای مشاهده این سرویس وجود ندارد. لطفاً بعداً مجدداً سعی کنید.</message>
 
     <!-- Authentication messages used for bitstream authentication -->
-	<message key="xmlui.BitstreamReader.auth_header">The file is restricted</message>
-	<message key="xmlui.BitstreamReader.auth_message">The file you are attempting to access is a restricted file and requires credentials to view. Please login below to access the file.</message>
+	<message key="xmlui.BitstreamReader.auth_header">فایل محدود شده است.</message>
+	<message key="xmlui.BitstreamReader.auth_message">برای مشاهده این فایل محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
 
 	<!-- Export Archive download messages -->
-	<message key="xmlui.ItemExportDownloadReader.auth_header">This export archive is restricted.</message>
-	<message key="xmlui.ItemExportDownloadReader.auth_message">The export archive you are attempting to access is a restricted resource and requires credentials to view. Please login below to access the export archive.</message>
+	<message key="xmlui.ItemExportDownloadReader.auth_header">این آرشیو صادره محدود شده است.</message>
+	<message key="xmlui.ItemExportDownloadReader.auth_message">برای مشاهده این آرشیو صادره محدودیت وجود دارد. برای دسترسی نیاز به ورود به سامانه می باشد.</message>
 
 
 	<!-- REQUEST COPY -->
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.title">Request a copy of the document</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">Request a copy of the document</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Request a copy of the document</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">Users of this system, can login to view this document.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">Login</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Enter the following information to request a copy of the document from the responsible person.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">Your e-mail address</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">This email address is used for sending the document.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">E-mail is mandatory</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message">Message</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message.error">Message is mandatory</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.files">Files</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">All files (of this document) in restricted access.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">Only The requested file.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName">Name</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">Name is required</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestForm.submit">Request copy</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.title">درخواست یک کپی از سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">درخواست یک کپی از سند </message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.head">درخواست یک کپی از سند </message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">کاربران این سیستم میتوانند وارد سیستم شوند و سند را مشاهده کنند.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">ورود</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">اطلاعات زیر را برای درخواست یک کپی از سند، از شخص مسئول وارد کنید.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">آدرس پس الکترونیکی شما</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">این آدرس ایمیل برای ارسال سند استفاده می شود.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">وارد کردن پست الکترونیکی اجباری است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message">پیام</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.message.error">وارد کردن پیام اجباری است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.files">فایل ها</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">تمام فایل ها (از این سند) در دسترسی محدود شده است.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">فقط فایل درخواست شده.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName">نام</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">نام مورد نیاز است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestForm.submit">درخواست کپی</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestSent.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestSent.title">Your request has been sent.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestSent.trail">Your request has been sent.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestSent.head">Your request has been sent.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestSent.para1">Your request has been sent to the author or responsible person.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestSent.title">درخواست شما ارسال شد.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestSent.trail">درخواست شما ارسال شد.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestSent.head">درخواست شما ارسال شد.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestSent.para1">درخواست شما به نویسنده یا شخص مسئول ارسال شده است.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseDecisionForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.title">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.trail">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.head">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">IF YOU ARE THE AUTHOR (OR AN AUTHOR) OF DOCUMENT "{0}" use the buttons to answer the user's request.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">This repository will propose an appropriate model reply, which you may edit.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactRequester">Initial reply to requester</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactAuthor"> Author permission request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.send">Send copy</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.dontSend">Don't send copy</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.title">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.trail">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.head">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">اگر شما نویسنده سند "{0}" هستید، از کلید زیر برای جواب به درخواست کاربران استفاده کنید.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">این مخزن یک پاسخ مناسب مدل ارائه می دهد که شما می توانید آن را ویرایش کنید.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactRequester">پاسخ اولیه به درخواست کننده</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactAuthor"> درخواست مجوز نویسنده</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.send">ارسال کپی</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.dontSend">کپی نکن</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseTrueForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.title">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.trail">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.head">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.para1">This is the text to be sent to the applicant.</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.message">Message</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.title">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.trail">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.head">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.para1">این متن است که باید به متقاضی ارسال شود.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.message">پیام</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.subject">موضوع</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.mail">Send</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.back">Back</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.mail">ارسال</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.back">بازگشت</message>
 
     <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseFalseForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.title">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.trail">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.head">Document copy request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.para1">This is the text to be sent to the applicant (together with the document).</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.message">Message</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.title">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.trail">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.head">درخواست کپی سند</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.para1">این متن برای متقاضی (همراه با سند) ارسال می شود.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.message">پیام</message>
 	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.subject">موضوع</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.mail">Send</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.back">Back</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.mail">ارسال</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.back">بازگشت</message>
 	
 	 <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestChangeStatusForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.title">Change permissions request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.trail">Change permissions request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.head">Change permissions request</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">You may use this occasion to reconsider the access restrictions on the document (to avoid having to respond to these requests), if there is no reason to keep it restricted. To do so, after inserting your name and e-mail (for authentication), click the button "Change to Open Access".</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name">Name</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">E-mail</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name.error">The name is required</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email.error">The e-mail address is required</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.changeToOpen">Change to open access</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.title">تغییر درخواست مجوز</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.trail">تغییر درخواست مجوز</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.head">تغییر درخواست مجوز</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">شما می توانید از این فرصت برای تجدید نظر در محدودیت های دسترسی در سند استفاده کنید (برای اجتناب از نیاز به پاسخ به این درخواست ها)، اگر هیچ دلیلی برای حفظ آن وجود ندارد. برای انجام این کار، پس از قرار دادن نام و ایمیل خود (برای احراز هویت)، بر روی دکمه "تغییر برای باز کردن دسترسی" کلیک کنید.</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name">نام</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">پست الکترونیکی</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name.error">نام مورد نیاز است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email.error">آدرس ایمیل مورد نیاز است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.changeToOpen">تغییر به دسترسی باز</message>
 	        
 	<!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseFalseForm.java -->
-	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.title">Request sent</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.trail">Request sent</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.head">Your request to change permissions has been sent</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para1">Your request has been sent to the administrator</message>
-	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para2">Thanks</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.title">درخواست فرستاده شد</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.trail">درخواست فرستاده شد</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.head">درخواست شما برای تغییر مجوز ارسال شده است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para1">درخواست شما به مدیرست ارسال شده است</message>
+	<message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para2">با تشکر</message>
 
     <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestContactRequester.java -->
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.title">Document copy request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.trail">Document copy request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.head">Document copy request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.para1">Initial communication with the requester, to let them know their request is being processed.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.toEmail">To</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.title">درخواست کپی سند</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.trail">درخواست کپی سند</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.head">درخواست کپی سند</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.para1">ارتباط اولیه با درخواست، به آنها اطلاع دهید درخواست شان در حال پردازش است.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.toEmail">به</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.subject">موضوع</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.message">Message</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.mail">Send</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.back">Back</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.message">پیام</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.mail">ارسال</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.back">بازگشت</message>
 
     <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestContactAuthor.java -->
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.title">Document copy request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.trail">Document copy request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.head">Document copy request</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.para1">This is the text to be sent to the applicant (together with the document).</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.toEmail">To</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.title">درخواست کپی سند</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.trail">درخواست کپی سند</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.head">درخواست کپی سند</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.para1">این متن برای متقاضی (همراه با سند) ارسال می شود.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.toEmail">به</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.subject">موضوع</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.message">Message</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.mail">Send</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.back">Back</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.message">پیام</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.mail">ارسال</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.back">بازگشت</message>
 
     <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseSent.java -->
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.title">Your response has been sent.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.trail">Your response has been sent.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">Your response has been sent.</message>
-    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.title">پاسخ شما ارسال شد</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.trail">پاسخ شما ارسال شد</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">پاسخ شما ارسال شد</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">پاسخ شما ارسال شد</message>
 
 
 	
@@ -429,95 +429,95 @@
 
 
 	<!-- General keys used by the EPerson aspect -->
-	<message key="xmlui.EPerson.trail_new_registration">New user registration</message>
-	<message key="xmlui.EPerson.trail_forgot_password">Forgot Password</message>
+	<message key="xmlui.EPerson.trail_new_registration">ثبت نام کاربر جدید</message>
+	<message key="xmlui.EPerson.trail_forgot_password">رمز عبور را فراموش کرده اید</message>
 
 	<!-- org.dspace.app.xmlui.eperson.CannotRegister.java -->
-	<message key="xmlui.EPerson.CannotRegister.title">Registration unavailable</message>
-	<message key="xmlui.EPerson.CannotRegister.head">Registration unavailable</message>
-	<message key="xmlui.EPerson.CannotRegister.para1">The configuration of this DSpace repository does not allow registration in this context. Please contact the <a href="../contact">site administrator</a> with questions or comments.</message>
+	<message key="xmlui.EPerson.CannotRegister.title">ثبت نام در دسترس نیست</message>
+	<message key="xmlui.EPerson.CannotRegister.head">ثبت نام در دسترس نیست</message>
+	<message key="xmlui.EPerson.CannotRegister.para1">پیکربندی این مخزن پایگاه داده ثبت نام در این زمینه را اجازه نمی دهد. لطفاً با <a href="../contact">مدیریت سایت</a> همراه با توضیحات لازم ارتباط برقرار کنید.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.EditProfile.java -->
-	<message key="xmlui.EPerson.EditProfile.title_update">Update Profile</message>
-	<message key="xmlui.EPerson.EditProfile.title_create">Create Profile</message>
-	<message key="xmlui.EPerson.EditProfile.trail_update">Update Profile</message>
-	<message key="xmlui.EPerson.EditProfile.head_update">Update Profile</message>
-	<message key="xmlui.EPerson.EditProfile.head_create">Create Profile</message>
-	<message key="xmlui.EPerson.EditProfile.email_address">Email Address</message>
-	<message key="xmlui.EPerson.EditProfile.first_name">First Name</message>
-	<message key="xmlui.EPerson.EditProfile.last_name">Last Name</message>
-	<message key="xmlui.EPerson.EditProfile.telephone">Contact Telephone</message>
-        <message key="xmlui.EPerson.EditProfile.Language">Language</message>
-	<message key="xmlui.EPerson.EditProfile.subscriptions">Subscriptions</message>
-	<message key="xmlui.EPerson.EditProfile.subscriptions_help">You may subscribe to collections to receive daily e-mail alerts of new items added. You can subscribe to as many or as few collections as you wish. Another alternative to daily e-mail alerts is to use the RSS feeds available for all collections.</message>
-	<message key="xmlui.EPerson.EditProfile.email_subscriptions">Email Subscriptions</message>
-	<message key="xmlui.EPerson.EditProfile.select_collection">( Select Collection )</message>
-	<message key="xmlui.EPerson.EditProfile.update_password_instructions">Optionally, you can enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.</message>
-	<message key="xmlui.EPerson.EditProfile.create_password_instructions">Please enter a password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.</message>
-	<message key="xmlui.EPerson.EditProfile.password">Password</message>
-	<message key="xmlui.EPerson.EditProfile.confirm_password">Retype to confirm</message>
-	<message key="xmlui.EPerson.EditProfile.submit_update">Complete Registration</message>
-	<message key="xmlui.EPerson.EditProfile.submit_create">Update Profile</message>
-	<message key="xmlui.EPerson.EditProfile.error_required">This field is required</message>
-	<message key="xmlui.EPerson.EditProfile.error_invalid_password">Choose a password at least 6 characters long</message>
-	<message key="xmlui.EPerson.EditProfile.error_unconfirmed_password">Please retype your password to confirm</message>
-	<message key="xmlui.EPerson.EditProfile.head_auth">Authorization groups you belong to</message>
-	<message key="xmlui.EPerson.EditProfile.head_identify">Identify</message>
-	<message key="xmlui.EPerson.EditProfile.head_security">Security</message>
+	<message key="xmlui.EPerson.EditProfile.title_update">بروزرسانی پروفایل</message>
+	<message key="xmlui.EPerson.EditProfile.title_create">ایجاد پروفایل</message>
+	<message key="xmlui.EPerson.EditProfile.trail_update">بروزرسانی پروفایل</message>
+	<message key="xmlui.EPerson.EditProfile.head_update">بروزرسانی پروفایل</message>
+	<message key="xmlui.EPerson.EditProfile.head_create">ایجاد پروفایل</message>
+	<message key="xmlui.EPerson.EditProfile.email_address">آدرس ایمیل </message>
+	<message key="xmlui.EPerson.EditProfile.first_name">نام</message>
+	<message key="xmlui.EPerson.EditProfile.last_name">نام خانوادگی</message>
+	<message key="xmlui.EPerson.EditProfile.telephone">تلفن</message>
+        <message key="xmlui.EPerson.EditProfile.Language">زبان</message>
+	<message key="xmlui.EPerson.EditProfile.subscriptions">اشتراک ها</message>
+	<message key="xmlui.EPerson.EditProfile.subscriptions_help">شما می توانید به مجموعه ها برای دریافت هشدارهای ایمیل روزانه از موارد جدید اضافه شده اشتراک دهید. شما می توانید به همان تعداد یا تعداد مجموعه ای که می خواهید مشترک شوید. جایگزین دیگری برای هشدارهای ایمیل روزانه این است که از RSS های موجود برای همه مجموعه ها استفاده کنید.</message>
+	<message key="xmlui.EPerson.EditProfile.email_subscriptions">ایمیل اشتراک ها</message>
+	<message key="xmlui.EPerson.EditProfile.select_collection">(انتخاب مجموعه)</message>
+	<message key="xmlui.EPerson.EditProfile.update_password_instructions">در صورت امکان، شما می توانید یک رمز عبور جدید را در کادر زیر وارد کنید و آن را تایپ کنید و دوباره آن را در جعبه دوم تایپ کنید. باید حداقل شش کاراکتر داشته باشد.</message>
+	<message key="xmlui.EPerson.EditProfile.create_password_instructions">لطفا یک رمز عبور را در کادر زیر وارد کنید و آن را با تایپ آن دوباره به جعبه دوم تایید کنید. باید حداقل شش کاراکتر داشته باشد.</message>
+	<message key="xmlui.EPerson.EditProfile.password">رمز ورود</message>
+	<message key="xmlui.EPerson.EditProfile.confirm_password">برای تایید دوباره بنویسید</message>
+	<message key="xmlui.EPerson.EditProfile.submit_update">ثبت نام کامل شد</message>
+	<message key="xmlui.EPerson.EditProfile.submit_create">بروزرسانی پروفایل</message>
+	<message key="xmlui.EPerson.EditProfile.error_required">این فیلد مورد نیاز است</message>
+	<message key="xmlui.EPerson.EditProfile.error_invalid_password">گذرواژه حداقل 6 کاراکتر را انتخاب کنید</message>
+	<message key="xmlui.EPerson.EditProfile.error_unconfirmed_password">لطفا رمز عبور خود را تایپ کنید</message>
+	<message key="xmlui.EPerson.EditProfile.head_auth">گروه های مجاز متعلق به شما</message>
+	<message key="xmlui.EPerson.EditProfile.head_identify">احراز هويت</message>
+	<message key="xmlui.EPerson.EditProfile.head_security">امنیت</message>
 
 	<!-- org.dspace.app.xmlui.eperson.EPersonUtils.java -->
-	<message key="xmlui.EPerson.EPersonUtils.register_verify_email">Verify Email</message>
-	<message key="xmlui.EPerson.EPersonUtils.register_create_profile">Create Profile</message>
-	<message key="xmlui.EPerson.EPersonUtils.register_finished">Finished</message>
-	<message key="xmlui.EPerson.EPersonUtils.forgot_verify_email">Verify Email</message>
-	<message key="xmlui.EPerson.EPersonUtils.forgot_reset_password">Reset Password</message>
-	<message key="xmlui.EPerson.EPersonUtils.forgot_finished">Finished</message>
+	<message key="xmlui.EPerson.EPersonUtils.register_verify_email">تأیید ایمیل</message>
+	<message key="xmlui.EPerson.EPersonUtils.register_create_profile">ایجاد پروفایل</message>
+	<message key="xmlui.EPerson.EPersonUtils.register_finished">تمام شده</message>
+	<message key="xmlui.EPerson.EPersonUtils.forgot_verify_email">تأیید ایمیل</message>
+	<message key="xmlui.EPerson.EPersonUtils.forgot_reset_password">تغییر رمز ورود</message>
+	<message key="xmlui.EPerson.EPersonUtils.forgot_finished">تمام شده</message>
 
 	<!-- org.dspace.app.xmlui.eperson.ForgotPasswordFinished.java -->
-	<message key="xmlui.EPerson.ForgotPasswordFinished.title">Password reset</message>
-	<message key="xmlui.EPerson.ForgotPasswordFinished.head">Password reset</message>
-	<message key="xmlui.EPerson.ForgotPasswordFinished.para1">Your password has been reset.</message>
+	<message key="xmlui.EPerson.ForgotPasswordFinished.title">تغییر پسورد</message>
+	<message key="xmlui.EPerson.ForgotPasswordFinished.head">تغییر پسورد</message>
+	<message key="xmlui.EPerson.ForgotPasswordFinished.para1">رمز ورود تغییر یافت.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.InvalidToken.java -->
-	<message key="xmlui.EPerson.InvalidToken.title">Invalid token</message>
-	<message key="xmlui.EPerson.InvalidToken.trail">Invalid token</message>
-	<message key="xmlui.EPerson.InvalidToken.head">Invalid token</message>
-	<message key="xmlui.EPerson.InvalidToken.para1">The URL you provided is invalid. The URL may have been broken across multiple lines in your email client, like this:</message>
-	<message key="xmlui.EPerson.InvalidToken.para2">If so, copy and paste the entire URL directly into your browser's address bar, rather than simply clicking on the link. The address bar should then contain something like:</message>
+	<message key="xmlui.EPerson.InvalidToken.title">نشانه نامعتبر</message>
+	<message key="xmlui.EPerson.InvalidToken.trail">نشانه نامعتبر</message>
+	<message key="xmlui.EPerson.InvalidToken.head">نشانه نامعتبر</message>
+	<message key="xmlui.EPerson.InvalidToken.para1">نشانی اینترنتی که ارائه کردهاید نامعتبر است URL ممکن است در چندین خط در سرویس گیرنده ایمیل شما شکسته شود، مانند این:</message>
+	<message key="xmlui.EPerson.InvalidToken.para2">اگر چنین است، کل URL را به طور مستقیم به نوار آدرس مرورگر خود کپی و جایگذاری کنید، نه فقط کلیک روی پیوند. نوار آدرس بعد باید شامل موارد زیر باشد:</message>
 
 	<!-- org.dspace.app.xmlui.eperson.Navigation.java -->
-	<message key="xmlui.EPerson.Navigation.my_account">My Account</message>
-	<message key="xmlui.EPerson.Navigation.profile">Profile</message>
-	<message key="xmlui.EPerson.Navigation.logout">Logout</message>
-	<message key="xmlui.EPerson.Navigation.login">Login</message>
-	<message key="xmlui.EPerson.Navigation.register">Register</message>
+	<message key="xmlui.EPerson.Navigation.my_account">حساب کاربری من</message>
+	<message key="xmlui.EPerson.Navigation.profile">اطلاعات شخصی</message>
+	<message key="xmlui.EPerson.Navigation.logout">خروج</message>
+	<message key="xmlui.EPerson.Navigation.login">ورود</message>
+	<message key="xmlui.EPerson.Navigation.register">ثبت نام</message>
 
 	<!-- org.dspace.app.xmlui.eperson.PasswordLogin.java -->
-	<message key="xmlui.EPerson.PasswordLogin.title">Sign in</message>
-	<message key="xmlui.EPerson.PasswordLogin.trail">Sign in</message>
-	<message key="xmlui.EPerson.PasswordLogin.head1">Sign in to DSpace</message>
-	<message key="xmlui.EPerson.PasswordLogin.email_address">E-Mail Address</message>
-	<message key="xmlui.EPerson.PasswordLogin.error_bad_login">The email address and/or password supplied were not valid.</message>
-	<message key="xmlui.EPerson.PasswordLogin.password">Password</message>
-	<message key="xmlui.EPerson.PasswordLogin.forgot_link"> Forgot your password?</message>
-	<message key="xmlui.EPerson.PasswordLogin.submit">Sign in</message>
-	<message key="xmlui.EPerson.PasswordLogin.head2">Register new user</message>
-	<message key="xmlui.EPerson.PasswordLogin.para1">Register an account to subscribe to collections for email updates, and submit new items to DSpace.</message>
-	<message key="xmlui.EPerson.PasswordLogin.register_link">Click here to register.</message>
+	<message key="xmlui.EPerson.PasswordLogin.title">ورود</message>
+	<message key="xmlui.EPerson.PasswordLogin.trail">ورود</message>
+	<message key="xmlui.EPerson.PasswordLogin.head1">ورود به سامانه</message>
+	<message key="xmlui.EPerson.PasswordLogin.email_address">آدرس پست الکترونیکی</message>
+	<message key="xmlui.EPerson.PasswordLogin.error_bad_login">آدرس ایمیل یا رمز عبور ارائه شده معتبر نیست.</message>
+	<message key="xmlui.EPerson.PasswordLogin.password">رمز ورود</message>
+	<message key="xmlui.EPerson.PasswordLogin.forgot_link"> آیا نام کاربری را فراموش کردید؟</message>
+	<message key="xmlui.EPerson.PasswordLogin.submit">ورود</message>
+	<message key="xmlui.EPerson.PasswordLogin.head2">ثبت کاربر جدید</message>
+	<message key="xmlui.EPerson.PasswordLogin.para1">ثبت نام برای اشتراک در مجموعه برای به روز رسانی ایمیل، و ارسال اقلام جدید به پایگاه داده.</message>
+	<message key="xmlui.EPerson.PasswordLogin.register_link">اینجا را کلیک کنید تا ثبت نام کنید.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.LDAPLogin.java -->
-	<message key="xmlui.EPerson.LDAPLogin.title">Sign in</message>
-	<message key="xmlui.EPerson.LDAPLogin.trail">Sign in</message>
-	<message key="xmlui.EPerson.LDAPLogin.head1">Sign in to DSpace</message>
-	<message key="xmlui.EPerson.LDAPLogin.username">User Name</message>
-	<message key="xmlui.EPerson.LDAPLogin.error_bad_login">The user name and/or password supplied were not valid.</message>
-	<message key="xmlui.EPerson.LDAPLogin.password">Password</message>
-	<message key="xmlui.EPerson.LDAPLogin.submit">Sign in</message>
+	<message key="xmlui.EPerson.LDAPLogin.title">ورود</message>
+	<message key="xmlui.EPerson.LDAPLogin.trail">ورود</message>
+	<message key="xmlui.EPerson.LDAPLogin.head1">ورود به سامانه</message>
+	<message key="xmlui.EPerson.LDAPLogin.username">نام کاربری</message>
+	<message key="xmlui.EPerson.LDAPLogin.error_bad_login">نام کاربری یا رمز عبور ارائه شده معتبر نبودند.</message>
+	<message key="xmlui.EPerson.LDAPLogin.password">رمز ورود</message>
+	<message key="xmlui.EPerson.LDAPLogin.submit">ورود</message>
 
 	<!-- org.dspace.app.xmlui.eperson.LoginChooser.java -->
-	<message key="xmlui.EPerson.LoginChooser.title">Choose a Login Method</message>
-	<message key="xmlui.EPerson.LoginChooser.trail">Choose Login</message>
-	<message key="xmlui.EPerson.LoginChooser.head1">Choose a Login Method</message>
+	<message key="xmlui.EPerson.LoginChooser.title">یک روش ورود را انتخاب کنید</message>
+	<message key="xmlui.EPerson.LoginChooser.trail">روش ورود را انتخاب کنید</message>
+	<message key="xmlui.EPerson.LoginChooser.head1">یک روش ورود را انتخاب کنید</message>
 	<message key="xmlui.EPerson.LoginChooser.para1">Log in via:</message>
 	<message key="org.dspace.authenticate.ShibAuthentication.title">Shibboleth Authentication</message>
 	<message key="org.dspace.eperson.LDAPAuthentication.title">LDAP Authentication</message>
@@ -525,67 +525,67 @@
 	<message key="org.dspace.eperson.X509Authentication.title">Web Certificate Authentication</message>
 
 	<!-- org.dspace.app.xmlui.eperson.FailedAuthentication -->
-	<message key="xmlui.EPerson.FailedAuthentication.BadCreds">The credentials provided are invalid.</message>
-	<message key="xmlui.EPerson.FailedAuthentication.BadArgs">Unable to authenticate due to invalid arguments received.</message>
-	<message key="xmlui.EPerson.FailedAuthentication.NoSuchUser">A user was not found with the credentials provided.</message>
-	<message key="xmlui.EPerson.FailedAuthentication.title">Authentication Failed</message>
-    <message key="xmlui.EPerson.FailedAuthentication.trail">Failed Authentication</message>
-    <message key="xmlui.EPerson.FailedAuthentication.h1">Authentication Failed</message>
+	<message key="xmlui.EPerson.FailedAuthentication.BadCreds">اعتبار ارائه شده نامعتبر است</message>
+	<message key="xmlui.EPerson.FailedAuthentication.BadArgs">با توجه به استدلال های نامعتبر دریافت شده امکان تایید وجود ندارد.</message>
+	<message key="xmlui.EPerson.FailedAuthentication.NoSuchUser">کاربر با اعتبار ارائه شده یافت نشد.</message>
+	<message key="xmlui.EPerson.FailedAuthentication.title">تأیید اعتبار ناموفق بود</message>
+    <message key="xmlui.EPerson.FailedAuthentication.trail">تأیید اعتبار ناموفق</message>
+    <message key="xmlui.EPerson.FailedAuthentication.h1">تأیید اعتبار ناموفق بود</message>
 
 	<!-- Login xml files -->
-	<message key="xmlui.eperson.noAuthMethod.head">No Authentication Method Found</message>
-	<message key="xmlui.eperson.noAuthMethod.p1">No authentication method was found.  Please contact the site administrator.</message>
-	<message key="xmlui.eperson.shibbLoginFailure.head">Shibboleth Login Failed</message>
-	<message key="xmlui.eperson.shibbLoginFailure.p1">Shibboleth authentication not available at this time. Please contact the site administrator.</message>
+	<message key="xmlui.eperson.noAuthMethod.head">هیچ روش تأیید هویتی یافت نشد.</message>
+	<message key="xmlui.eperson.noAuthMethod.p1">هیچ روش تأیید هویتی اعتبار یافت نشد. لطفا با مدیر سایت تماس بگیرید.</message>
+	<message key="xmlui.eperson.shibbLoginFailure.head">ورود به سیستم Shibboleth ناموفق بود</message>
+	<message key="xmlui.eperson.shibbLoginFailure.p1">تأیید اعتبار Shibboleth در این زمان موجود نیست لطفا با مدیر سایت تماس بگیرید.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.ProfileUpdated.java -->
-	<message key="xmlui.EPerson.ProfileUpdated.title">Profile updated</message>
-	<message key="xmlui.EPerson.ProfileUpdated.trail">Update profile</message>
-	<message key="xmlui.EPerson.ProfileUpdated.head">Profile updated</message>
-	<message key="xmlui.EPerson.ProfileUpdated.para1">Your profile information has been updated.</message>
+	<message key="xmlui.EPerson.ProfileUpdated.title">پروفایل به روز شد</message>
+	<message key="xmlui.EPerson.ProfileUpdated.trail">بروزرسانی پروفایل</message>
+	<message key="xmlui.EPerson.ProfileUpdated.head">پروفایل به روز شد</message>
+	<message key="xmlui.EPerson.ProfileUpdated.para1">اطلاعات نمایه شما به روز شده است</message>
 
 	<!-- org.dspace.app.xmlui.eperson.RegistrationFinished.java -->
-	<message key="xmlui.EPerson.RegistrationFinished.title">Registration finished</message>
-	<message key="xmlui.EPerson.RegistrationFinished.head">Registration Finished</message>
-	<message key="xmlui.EPerson.RegistrationFinished.para1">You're now registered to use the DSpace system.  You can subscribe to collections to receive email updates about new items.</message>
+	<message key="xmlui.EPerson.RegistrationFinished.title">ثبت نام تمام شد</message>
+	<message key="xmlui.EPerson.RegistrationFinished.head">ثبت نام تمام شد</message>
+	<message key="xmlui.EPerson.RegistrationFinished.para1">شما اکنون برای استفاده از سیستم پایگاه داده ثبت نام کرده اید. شما می توانید به مجموعه ها برای دریافت به روز رسانی ایمیل در مورد موارد جدید مشترک شوید.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.ResetPassword.java -->
-	<message key="xmlui.EPerson.ResetPassword.title">Reset password</message>
-	<message key="xmlui.EPerson.ResetPassword.head">Reset password</message>
-	<message key="xmlui.EPerson.ResetPassword.para1">Please enter a new password into the box below, and confirm it by typing it again into the second box. It should be at least six characters long.</message>
-	<message key="xmlui.EPerson.ResetPassword.email_address">Email Address</message>
-	<message key="xmlui.EPerson.ResetPassword.new_password">New password</message>
-	<message key="xmlui.EPerson.ResetPassword.confirm_password">Retype to Confirm</message>
-	<message key="xmlui.EPerson.ResetPassword.submit">Reset password</message>
-	<message key="xmlui.EPerson.ResetPassword.error_invalid_password">Choose a password at least 6 characters long</message>
-	<message key="xmlui.EPerson.ResetPassword.error_unconfirmed_password">Please retype your password to confirm</message>
+	<message key="xmlui.EPerson.ResetPassword.title">تغییر رمز ورود</message>
+	<message key="xmlui.EPerson.ResetPassword.head">تغییر رمز ورود</message>
+	<message key="xmlui.EPerson.ResetPassword.para1">لطفا یک رمز عبور جدید را در جعبه زیر وارد کنید و تایید آن را با تایپ آن دوباره به جعبه دوم. باید حداقل شش کاراکتر داشته باشد.</message>
+	<message key="xmlui.EPerson.ResetPassword.email_address">آدرس ایمیل </message>
+	<message key="xmlui.EPerson.ResetPassword.new_password">رمز جدید</message>
+	<message key="xmlui.EPerson.ResetPassword.confirm_password">دوباره تکرار کنید</message>
+	<message key="xmlui.EPerson.ResetPassword.submit">تغییر رمز ورود</message>
+	<message key="xmlui.EPerson.ResetPassword.error_invalid_password">گذرواژه حداقل 6 کاراکتر را انتخاب کنید</message>
+	<message key="xmlui.EPerson.ResetPassword.error_unconfirmed_password">لطفا رمز عبور خود را تایپ کنید</message>
 
 	<!-- org.dspace.app.xmlui.eperson.StartForgotPassword.java -->
-	<message key="xmlui.EPerson.StartForgotPassword.title">Forgot Password</message>
-	<message key="xmlui.EPerson.StartForgotPassword.head">Forgot Password</message>
-	<message key="xmlui.EPerson.StartForgotPassword.para1">Enter the email address you provided when you registered with DSpace. An email will be sent to that address with further instructions.</message>
-	<message key="xmlui.EPerson.StartForgotPassword.email_address">Email Address</message>
-	<message key="xmlui.EPerson.StartForgotPassword.email_address_help">Enter the same address used when registering.</message>
-	<message key="xmlui.EPerson.StartForgotPassword.error_not_found">Email address not found.</message>
-	<message key="xmlui.EPerson.StartForgotPassword.submit">Send info</message>
+	<message key="xmlui.EPerson.StartForgotPassword.title">فراموشی رمز ورود</message>
+	<message key="xmlui.EPerson.StartForgotPassword.head">فراموشی رمز ورود</message>
+	<message key="xmlui.EPerson.StartForgotPassword.para1">آدرس ایمیل شما را در هنگام ثبت نام با پایگاه داده وارد کنید. با دستورالعمل های بیشتر، یک ایمیل به آن آدرس ارسال می شود.</message>
+	<message key="xmlui.EPerson.StartForgotPassword.email_address">آدرس ایمیل </message>
+	<message key="xmlui.EPerson.StartForgotPassword.email_address_help">همان آدرس مورد استفاده برای ثبت نام را وارد کنید</message>
+	<message key="xmlui.EPerson.StartForgotPassword.error_not_found">آدرس ایمیل یافت نشد.</message>
+	<message key="xmlui.EPerson.StartForgotPassword.submit">ارسال اطلاعات</message>
 
 	<!-- org.dspace.app.xmlui.eperson.StartRegistration.java -->
-	<message key="xmlui.EPerson.StartRegistration.title">New user registration</message>
-	<message key="xmlui.EPerson.StartRegistration.head1">Email already in use</message>
-	<message key="xmlui.EPerson.StartRegistration.para1">That email address is already in use by another account. If you want to reset the password for this account, click the reset password button below.</message>
-	<message key="xmlui.EPerson.StartRegistration.reset_password_for">Reset password for</message>
-	<message key="xmlui.EPerson.StartRegistration.submit_reset">Reset password</message>
-	<message key="xmlui.EPerson.StartRegistration.head2">New user registration</message>
-	<message key="xmlui.EPerson.StartRegistration.para2">Register an account to subscribe to collections for email updates, and submit new items to DSpace.</message>
-	<message key="xmlui.EPerson.StartRegistration.email_address">Email Address</message>
-	<message key="xmlui.EPerson.StartRegistration.email_address_help">This address will be verified and used as your login name.</message>
-	<message key="xmlui.EPerson.StartRegistration.error_bad_email">Unable to send email to this address.</message>
-	<message key="xmlui.EPerson.StartRegistration.submit_register">Register</message>
+	<message key="xmlui.EPerson.StartRegistration.title">ثبت نام کاربر جدید</message>
+	<message key="xmlui.EPerson.StartRegistration.head1">آدرس ایمیل در حال استفاده است</message>
+	<message key="xmlui.EPerson.StartRegistration.para1">این آدرس ایمیل در حال استفاده در حساب دیگر است. اگر می خواهید رمز عبور این حساب را بازنشانی کنید، روی دکمه تنظیم مجدد رمز عبور زیر کلیک کنید.</message>
+	<message key="xmlui.EPerson.StartRegistration.reset_password_for">بازنشانی گذرواژه برای</message>
+	<message key="xmlui.EPerson.StartRegistration.submit_reset">تغییر رمز ورود</message>
+	<message key="xmlui.EPerson.StartRegistration.head2">ثبت نام کاربر جدید</message>
+	<message key="xmlui.EPerson.StartRegistration.para2">ثبت نام برای اشتراک در مجموعه برای به روز رسانی ایمیل، و ثبت موارد جدید به پایگاه داده.</message>
+	<message key="xmlui.EPerson.StartRegistration.email_address">آدرس ایمیل </message>
+	<message key="xmlui.EPerson.StartRegistration.email_address_help">این آدرس تأیید خواهد شد و به عنوان نام کاربری شما استفاده می شود.</message>
+	<message key="xmlui.EPerson.StartRegistration.error_bad_email">فرستادن ایمیل به این آدرس امکان پذیر نیست</message>
+	<message key="xmlui.EPerson.StartRegistration.submit_register">ثبت نام</message>
 
 	<!-- org.dspace.app.xmlui.eperson.VerifyEmail.java -->
-	<message key="xmlui.EPerson.VerifyEmail.title">Verification email sent</message>
-	<message key="xmlui.EPerson.VerifyEmail.head">Verification email sent</message>
-	<message key="xmlui.EPerson.VerifyEmail.para">An email has been sent to {0} containing a special URL and further instructions.</message>
+	<message key="xmlui.EPerson.VerifyEmail.title">ایمیل تأیید ارسال شد</message>
+	<message key="xmlui.EPerson.VerifyEmail.head">ایمیل تأیید ارسال شد</message>
+	<message key="xmlui.EPerson.VerifyEmail.para">یک ایمیل به {0} حاوی URL خاص و دستورالعملهای بیشتر ارسال شده است.</message>
 
 
 
@@ -605,141 +605,141 @@
 
 
 	<!-- general submission aspect messages -->
-	<message key="xmlui.Submission.general.mydspace_home">MyDSpace Home</message>
-	<message key="xmlui.Submission.general.go_mydspace">Go to MyDSpace Home</message>
-	<message key="xmlui.Submission.general.submission.title">Item submission</message>
-	<message key="xmlui.Submission.general.submission.trail">Item submission</message>
-	<message key="xmlui.Submission.general.submission.head">Item submission</message>
-	<message key="xmlui.Submission.general.submission.previous">&lt; Previous</message>
-	<message key="xmlui.Submission.general.submission.save">Save &amp; Exit</message>
-	<message key="xmlui.Submission.general.submission.next">Next &gt;</message>
-	<message key="xmlui.Submission.general.submission.complete">Complete submission</message>
-	<message key="xmlui.Submission.general.workflow.title">Item submission</message>
-	<message key="xmlui.Submission.general.workflow.trail">Item submission</message>
-	<message key="xmlui.Submission.general.workflow.head">Item submission</message>
-	<message key="xmlui.Submission.general.showfull">Show full item record</message>
-	<message key="xmlui.Submission.general.showsimple">Show simple item record</message>
-	<message key="xmlui.Submission.general.default.title">Submission</message>
-	<message key="xmlui.Submission.general.default.trail">Submission</message>
+	<message key="xmlui.Submission.general.mydspace_home">صفحه اصلی پایگاه داده</message>
+	<message key="xmlui.Submission.general.go_mydspace">برو به صفحه اصلی پایگاه داده</message>
+	<message key="xmlui.Submission.general.submission.title">ارسال مورد</message>
+	<message key="xmlui.Submission.general.submission.trail">ارسال مورد</message>
+	<message key="xmlui.Submission.general.submission.head">ارسال مورد</message>
+	<message key="xmlui.Submission.general.submission.previous">&lt; قبلی</message>
+	<message key="xmlui.Submission.general.submission.save">ذخیره و خروج</message>
+	<message key="xmlui.Submission.general.submission.next">بعدی &gt;</message>
+	<message key="xmlui.Submission.general.submission.complete">ارسال پایان یافت</message>
+	<message key="xmlui.Submission.general.workflow.title">ارسال مورد</message>
+	<message key="xmlui.Submission.general.workflow.trail">ارسال مورد</message>
+	<message key="xmlui.Submission.general.workflow.head">ارسال مورد</message>
+	<message key="xmlui.Submission.general.showfull">نمایش کامل سوابق مورد</message>
+	<message key="xmlui.Submission.general.showsimple">نمایش مختصری از رکورد مورد</message>
+	<message key="xmlui.Submission.general.default.title">ارسال</message>
+	<message key="xmlui.Submission.general.default.trail">ارسال</message>
 
 	<!-- org.dspace.app.xmlui.submission.CollectiovViewer -->
-	<message key="xmlui.Submission.CollectionViewer.link1">Submit a new item to this collection</message>
+	<message key="xmlui.Submission.CollectionViewer.link1">یک آیتم جدید به این مجموعه اضافه کنید</message>
 
 	<!-- org.dspace.app.xmlui.submission.Navigation -->
-	<message key="xmlui.Submission.Navigation.submissions">Submissions</message>
+	<message key="xmlui.Submission.Navigation.submissions">ارسالات</message>
 
 
 	<!-- org.dspace.app.xmlui.Submission.submissions -->
-	<message key="xmlui.Submission.Submissions.title">Submissions &amp; Workflow</message>
-	<message key="xmlui.Submission.Submissions.trail">Submissions</message>
-	<message key="xmlui.Submission.Submissions.head">Submissions &amp; Workflow tasks</message>
+	<message key="xmlui.Submission.Submissions.title">ارسالات و گردش کار</message>
+	<message key="xmlui.Submission.Submissions.trail">ارسالات</message>
+	<message key="xmlui.Submission.Submissions.head">ارسالات و گردش کار وظایف</message>
 	<message key="xmlui.Submission.Submissions.untitled"><i>بدون_تایتل</i></message>
-	<message key="xmlui.Submission.Submissions.email">email: </message>
+	<message key="xmlui.Submission.Submissions.email">ایمیل: </message>
 	<!-- Same transformer, workflow section -->
-	<message key="xmlui.Submission.Submissions.workflow_head1">Workflow tasks</message>
-	<message key="xmlui.Submission.Submissions.workflow_info1">These tasks are items that are awaiting approval before they are added to the repository. There are two task queues, one for tasks which you have chosen to accept and another for tasks which have not been taken by anyone yet.</message>
-	<message key="xmlui.Submission.Submissions.workflow_head2">Tasks you own</message>
+	<message key="xmlui.Submission.Submissions.workflow_head1">وظایف گردش کار</message>
+	<message key="xmlui.Submission.Submissions.workflow_info1">این وظایف مواردی هستند که منتظر تایید، قبل از اینکه به مخزن اضافه می باشند. دو صف کار وجود دارد، یکی برای کارهایی که قبلا تصمیم گرفته اید و دیگری برای انجام وظایفی که هنوز هیچ کس انجام نداده است.</message>
+	<message key="xmlui.Submission.Submissions.workflow_head2">وظایف خود را دارد</message>
 	<message key="xmlui.Submission.Submissions.workflow_column1"></message>
-	<message key="xmlui.Submission.Submissions.workflow_column2">Task</message>
-	<message key="xmlui.Submission.Submissions.workflow_column3">Item</message>
-	<message key="xmlui.Submission.Submissions.workflow_column4">Collection</message>
-	<message key="xmlui.Submission.Submissions.workflow_column5">Submitter</message>
-	<message key="xmlui.Submission.Submissions.workflow_submit_return">Return selected tasks to the pool</message>
-	<message key="xmlui.Submission.Submissions.workflow_info2">No tasks are assigned to you</message>
-	<message key="xmlui.Submission.Submissions.workflow_head3">Tasks in the pool</message>
-	<message key="xmlui.Submission.Submissions.workflow_submit_take">Take selected tasks</message>
-	<message key="xmlui.Submission.Submissions.workflow_info3">No tasks are in the pool</message>
+	<message key="xmlui.Submission.Submissions.workflow_column2">وظیفه</message>
+	<message key="xmlui.Submission.Submissions.workflow_column3">مورد</message>
+	<message key="xmlui.Submission.Submissions.workflow_column4">مجموعه</message>
+	<message key="xmlui.Submission.Submissions.workflow_column5">ارسال کننده</message>
+	<message key="xmlui.Submission.Submissions.workflow_submit_return">بازگرداندن وظایف به مخزن وظایف</message>
+	<message key="xmlui.Submission.Submissions.workflow_info2">هیچ وظیفه ای به شما اختصاص ندارد</message>
+	<message key="xmlui.Submission.Submissions.workflow_head3">وظایف در مخزن وظایف</message>
+	<message key="xmlui.Submission.Submissions.workflow_submit_take">وظایف را انتخاب کنید</message>
+	<message key="xmlui.Submission.Submissions.workflow_info3">هیچ وظیفه ای در مخزن وظایف موجود نیست</message>
 	<!-- Same transformer, submissions section -->
-	<message key="xmlui.Submission.Submissions.submit_head1">Submissions</message>
-	<message key="xmlui.Submission.Submissions.submit_info1a">You may </message>
-	<message key="xmlui.Submission.Submissions.submit_info1b">start a new submission.</message>
-	<message key="xmlui.Submission.Submissions.submit_info1c">The submission process includes describing the item and uploading the file(s) comprising it. Each community or collection may set its own submission policy.</message>
-	<message key="xmlui.Submission.Submissions.submit_head2">Unfinished submissions</message>
-	<message key="xmlui.Submission.Submissions.submit_info2a">These are incomplete item submissions. You may also </message>
-	<message key="xmlui.Submission.Submissions.submit_info2b">start another submission</message>
+	<message key="xmlui.Submission.Submissions.submit_head1">ارسالات</message>
+	<message key="xmlui.Submission.Submissions.submit_info1a">شما ممکنه</message>
+	<message key="xmlui.Submission.Submissions.submit_info1b">یک ارسال جدید را شروع کنید</message>
+	<message key="xmlui.Submission.Submissions.submit_info1c">فرایند ارسال شامل توضیح مورد و آپلود فایل (ها) است. هر جامعه یا مجموعه ممکن است خط مشی خود را دارا باشد.</message>
+	<message key="xmlui.Submission.Submissions.submit_head2">ارسالات ناتمام</message>
+	<message key="xmlui.Submission.Submissions.submit_info2a">مورد ارسالی های ناتمامی وجود دارند که ممکن است برای شما باشد.</message>
+	<message key="xmlui.Submission.Submissions.submit_info2b">یک ارسال دیگر را شروع کنید</message>
 	<message key="xmlui.Submission.Submissions.submit_info2c">.</message>
 	<message key="xmlui.Submission.Submissions.submit_column1"></message>
-	<message key="xmlui.Submission.Submissions.submit_column2">Title</message>
-	<message key="xmlui.Submission.Submissions.submit_column3">Collection</message>
-	<message key="xmlui.Submission.Submissions.submit_column4">Submitter</message>
-	<message key="xmlui.Submission.Submissions.submit_head3">Authoring:</message>
-	<message key="xmlui.Submission.Submissions.submit_info3">No submissions left unfinished.</message>
-	<message key="xmlui.Submission.Submissions.submit_head4">Supervising:</message>
-	<message key="xmlui.Submission.Submissions.submit_submit_remove">Remove selected submissions</message>
+	<message key="xmlui.Submission.Submissions.submit_column2">عنوان</message>
+	<message key="xmlui.Submission.Submissions.submit_column3">مجموعه</message>
+	<message key="xmlui.Submission.Submissions.submit_column4">ارسال کننده</message>
+	<message key="xmlui.Submission.Submissions.submit_head3">نوشتن:</message>
+	<message key="xmlui.Submission.Submissions.submit_info3">هیچ ارسالی ناتمام نرسیده است.</message>
+	<message key="xmlui.Submission.Submissions.submit_head4">سرپرستی:</message>
+	<message key="xmlui.Submission.Submissions.submit_submit_remove">حذف ارسالات انتخاب شده</message>
 	<!-- Same transformer, inprogress section -->
-	<message key="xmlui.Submission.Submissions.progress_head1">Submissions being reviewed</message>
-	<message key="xmlui.Submission.Submissions.progress_info1">These are your completed submissions which are currently being reviewed by collection curators.</message>
-	<message key="xmlui.Submission.Submissions.progress_column1">Title</message>
-	<message key="xmlui.Submission.Submissions.progress_column2">Collection</message>
-	<message key="xmlui.Submission.Submissions.progress_column3">Status</message>
+	<message key="xmlui.Submission.Submissions.progress_head1">پرونده های بازبینی شده</message>
+	<message key="xmlui.Submission.Submissions.progress_info1">اینها ارسالهای تکمیل شده شما هستند که در حال حاضر توسط سازندگان مجموعه بررسی می شوند.</message>
+	<message key="xmlui.Submission.Submissions.progress_column1">عنوان</message>
+	<message key="xmlui.Submission.Submissions.progress_column2">مجموعه</message>
+	<message key="xmlui.Submission.Submissions.progress_column3">وضعیت</message>
 	<!-- Same transformer, workflow status -->
-	<message key="xmlui.Submission.Submissions.status_0">Submitted</message>
-	<message key="xmlui.Submission.Submissions.status_1">Awaiting reviewer's attention</message>
-	<message key="xmlui.Submission.Submissions.status_2">Submission being reviewed</message>
-	<message key="xmlui.Submission.Submissions.status_3">Awaiting editor's attention</message>
-	<message key="xmlui.Submission.Submissions.status_4">Submission being edited</message>
-	<message key="xmlui.Submission.Submissions.status_5">Awaiting final editor's attention</message>
-	<message key="xmlui.Submission.Submissions.status_6">Submission being edited</message>
-	<message key="xmlui.Submission.Submissions.status_7">Submission has been archived</message>
-	<message key="xmlui.Submission.Submissions.status_unknown">Unknown state</message>
+	<message key="xmlui.Submission.Submissions.status_0">ارسال شده</message>
+	<message key="xmlui.Submission.Submissions.status_1">در انتظار بررسی محققان</message>
+	<message key="xmlui.Submission.Submissions.status_2">مقاله ارسالی بازبینی شده است</message>
+	<message key="xmlui.Submission.Submissions.status_3">در انتظار ویرایشگر</message>
+	<message key="xmlui.Submission.Submissions.status_4">مقاله ارسالی ویرایش شده است</message>
+	<message key="xmlui.Submission.Submissions.status_5">در انتظار ویرایشگر نهایی</message>
+	<message key="xmlui.Submission.Submissions.status_6">مقاله ارسالی ویرایش شده است</message>
+	<message key="xmlui.Submission.Submissions.status_7">مقاله ارسالی آرشیو شده است</message>
+	<message key="xmlui.Submission.Submissions.status_unknown">وضعیت نامشخص</message>
         <!-- Same transformer, completed submissions section -->
-        <message key="xmlui.Submission.Submissions.completed.head">Archived Submissions</message>
-        <message key="xmlui.Submission.Submissions.completed.info">These are your completed submissions which have been accepted into DSpace.</message>
-        <message key="xmlui.Submission.Submissions.completed.column1">Date accepted</message>
-        <message key="xmlui.Submission.Submissions.completed.column2">Title</message>
-        <message key="xmlui.Submission.Submissions.completed.column3">Collection</message>
-        <message key="xmlui.Submission.Submissions.completed.limit">We've only listed 50 of your archived submissions above. </message>
-        <message key="xmlui.Submission.Submissions.completed.displayall">Display all my archived submissions.</message>
+        <message key="xmlui.Submission.Submissions.completed.head">مقالات آرشیو شده</message>
+        <message key="xmlui.Submission.Submissions.completed.info">این ها مقالات ارسالی کامل شده ای هستند که پذیرفته شده اند.</message>
+        <message key="xmlui.Submission.Submissions.completed.column1">تاریخ پذیرش</message>
+        <message key="xmlui.Submission.Submissions.completed.column2">عنوان</message>
+        <message key="xmlui.Submission.Submissions.completed.column3">مجموعه</message>
+        <message key="xmlui.Submission.Submissions.completed.limit">ما 50 مورد از پرونده های آرشیو شده شما را در بالا ذکر کرده ایم. </message>
+        <message key="xmlui.Submission.Submissions.completed.displayall">تمام مقالات ارسالی آرشیو شده من را نمایش دهید.</message>
 
 	<!-- submission progress bar messages -->
-	<message key="xmlui.Submission.submit.progressbar.initial-questions">Initial Questions</message>
-	<message key="xmlui.Submission.submit.progressbar.describe">Describe</message>
-    <message key="xmlui.Submission.submit.progressbar.access">Access</message>
-    <message key="xmlui.Submission.submit.progressbar.upload">Upload</message>
-	<message key="xmlui.Submission.submit.progressbar.verify">Review</message>
-	<message key="xmlui.Submission.submit.progressbar.creative-commons">Creative Commons</message>
-	<message key="xmlui.Submission.submit.progressbar.CClicense">CC License</message>
-    <message key="xmlui.Submission.submit.progressbar.license">License</message>
-	<message key="xmlui.Submission.submit.progressbar.complete">Complete</message>
+	<message key="xmlui.Submission.submit.progressbar.initial-questions">سوالات اولیه</message>
+	<message key="xmlui.Submission.submit.progressbar.describe">شرح</message>
+    <message key="xmlui.Submission.submit.progressbar.access">دسترسی</message>
+    <message key="xmlui.Submission.submit.progressbar.upload">بارگذاری</message>
+	<message key="xmlui.Submission.submit.progressbar.verify">بازبینی</message>
+	<message key="xmlui.Submission.submit.progressbar.creative-commons">خلاقیت های مشترک</message>
+	<message key="xmlui.Submission.submit.progressbar.CClicense">مجوز CC</message>
+    <message key="xmlui.Submission.submit.progressbar.license">مجوز</message>
+	<message key="xmlui.Submission.submit.progressbar.complete">تکمیل</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.ResumeStep -->
-	<message key="xmlui.Submission.submit.ResumeStep.submit_resume">Resume</message>
+	<message key="xmlui.Submission.submit.ResumeStep.submit_resume">ادامه</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.SelectCollection -->
-	<message key="xmlui.Submission.submit.SelectCollection.head">Select a collection</message>
-	<message key="xmlui.Submission.submit.SelectCollection.collection">Collection</message>
-	<message key="xmlui.Submission.submit.SelectCollection.collection_help">Select the collection you wish to submit an item to.</message>
-	<message key="xmlui.Submission.submit.SelectCollection.collection_default">Select a collection...</message>
+	<message key="xmlui.Submission.submit.SelectCollection.head">یک مجموعه را انتخاب کنید</message>
+	<message key="xmlui.Submission.submit.SelectCollection.collection">مجموعه</message>
+	<message key="xmlui.Submission.submit.SelectCollection.collection_help">مجموعه ای که این مقاله ارسالی را در آن میخواهید قرار دهید را انتخاب کنید.</message>
+	<message key="xmlui.Submission.submit.SelectCollection.collection_default">یک مجموعه را انتخاب کنید...</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.SaveOrRemoveStep -->
-	<message key="xmlui.Submission.submit.SaveOrRemoveStep.head">Save or cancel your submission?</message>
-	<message key="xmlui.Submission.submit.SaveOrRemoveStep.info1">Do you want the submission removed, or do you want to carry on working on it later?  You may return to the submission process if you clicked Exit by accident.</message>
-	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_back">Oops, continue submission</message>
-	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_save">Save it, I'll work on it later</message>
-	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_remove">Remove the submission</message>
+	<message key="xmlui.Submission.submit.SaveOrRemoveStep.head">درخواست خود را ذخیره یا لغو کنید؟</message>
+	<message key="xmlui.Submission.submit.SaveOrRemoveStep.info1">آیا میخواهید مقاله ارسالی حذف شود یا میخواهید بعدا کارتان را ادامه دهید؟ اگر تصادفاً بر روی خروج کلیک کردید، شاید بتوانید به فرایند ارسال بازگردید.</message>
+	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_back">متأسفم، ارسال را ادامه دهید</message>
+	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_save">آن را ذخیره کنید، بعدا بر روی آن کار خواهم کرد</message>
+	<message key="xmlui.Submission.submit.SaveOrRemoveStep.submit_remove">مقاله ارسالی را حذف کنید</message>
 
 
 	<!-- org.dpspace.app.xmlui.Submission.submit.InitialQuestionsStep -->
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.head">Initial Questions</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.important_note">Important Note: </message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.and"> and </message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.head">سوالات اولیه</message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.important_note">یادداشت مهم: </message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.and"> و </message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.separator">, </message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.open_set"> (</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.close_set">)</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles">Multiple titles</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_help">The item has more than one title, <i>e.g. a translated title</i></message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_note">If the checkbox above is unchecked then the following title(s) will be removed from the item: </message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before">Published</message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles">عناوین چندگانه</message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_help">این مورد دارای بیش از یک عنوان است، <i> به عنوان مثال یک عنوان ترجمه شده دارد</i></message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.multiple_titles_note">اگر علامت کادر بالا انتخاب نشده باشد، عنوان (های) زیر از مورد حذف خواهد شد: </message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before">منتشر شده</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before_help">The item has been published or publicly distributed before</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.published_before_note">If the checkbox above is unchecked then the following will be removed from the item:</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.date_issued">Date Issued</message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.date_issued">تاریخ انتشار</message>
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.citation">Citation</message>
-	<message key="xmlui.Submission.submit.InitialQuestionsStep.publisher">Publisher</message>
+	<message key="xmlui.Submission.submit.InitialQuestionsStep.publisher">ناشر</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.DescribeStep -->
 	<message key="xmlui.Submission.submit.DescribeStep.head">Describe Item</message>
 	<message key="xmlui.Submission.submit.DescribeStep.unknown_field">Error: Unknown field type</message>
-	<message key="xmlui.Submission.submit.DescribeStep.required_field">This field is required</message>
+	<message key="xmlui.Submission.submit.DescribeStep.required_field">این فیلد مورد نیاز است</message>
 	<message key="xmlui.Submission.submit.DescribeStep.last_name_help">Last name, <i>e.g. Smith</i></message>
 	<message key="xmlui.Submission.submit.DescribeStep.first_name_help">First name(s) + "Jr", <i>e.g. Donald Jr</i></message>
 	<message key="xmlui.Submission.submit.DescribeStep.year">Year</message>
@@ -763,7 +763,7 @@
     <message key="xmlui.Submission.submit.AccessStep.embargo_visible">Access for selected group</message>
     <message key="xmlui.Submission.submit.AccessStep.name">Policy name</message>
     <message key="xmlui.Submission.submit.AccessStep.name_help">A short, descriptive name for the policy (up to 30 characters). May be shown to end users. Example: "Staff-only". Optional but recommended.</message>
-    <message key="xmlui.Submission.submit.AccessStep.description">Description</message>
+    <message key="xmlui.Submission.submit.AccessStep.description">توضیحات</message>
     <message key="xmlui.Submission.submit.AccessStep.reason">Embargo reason</message>
     <message key="xmlui.Submission.submit.AccessStep.reason_help">The reason for the embargo, typically for internal use only. Optional.</message>
     <message key="xmlui.Submission.submit.AccessStep.submit_add_policy">Confirm Policy &amp; add another</message>
@@ -778,13 +778,13 @@
     <message key="xmlui.Submission.submit.AccessStep.private_settings">Private item</message>
     <message key="xmlui.Submission.submit.AccessStep.private_settings_help">If selected, the item won't be searchable</message>
     <message key="xmlui.Submission.submit.AccessStep.private_settings_label">Private</message>
-    <message key="xmlui.Submission.submit.AccessStep.column0">Name</message>
+    <message key="xmlui.Submission.submit.AccessStep.column0">نام</message>
     <message key="xmlui.Submission.submit.AccessStep.column1">Action</message>
     <message key="xmlui.Submission.submit.AccessStep.column2">Group</message>
-    <message key="xmlui.Submission.submit.AccessStep.column3">Start Date</message>
-    <message key="xmlui.Submission.submit.AccessStep.column4">End Date</message>
-    <message key="xmlui.Submission.submit.AccessStep.table_edit_button">Edit</message>
-    <message key="xmlui.Submission.submit.AccessStep.table_delete_button">Remove</message>
+    <message key="xmlui.Submission.submit.AccessStep.column3">تاریخ شروع</message>
+    <message key="xmlui.Submission.submit.AccessStep.column4">تاریخ پایان</message>
+    <message key="xmlui.Submission.submit.AccessStep.table_edit_button">ویرایش </message>
+    <message key="xmlui.Submission.submit.AccessStep.table_delete_button">حذف</message>
 	<message key="xmlui.administrative.authorization.AccessStep.label_date_help">The first day from which access is allowed. Accepted format: yyyy, yyyy-mm, yyyy-mm-dd</message>
     <message key="xmlui.administrative.authorization.AccessStep.label_date_displayonly_help">The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.</message>
     <message key="xmlui.Submission.submit.AccessStep.review_policy_line">Name: {0}; action: {1}, group: {2}, start date: {3}, end date: {4}</message>
@@ -794,71 +794,71 @@
 
 
     <!-- org.dspace.app.xmlui.Submission.submit.EditPolicyStep -->
-    <message key="xmlui.Submission.submit.EditPolicyStep.head">Edit Policy</message>
+    <message key="xmlui.Submission.submit.EditPolicyStep.head">ویرایش خط مشی</message>
 
     <!-- org.dspace.app.xmlui.Submission.submit.UploadStep -->
-	<message key="xmlui.Submission.submit.UploadStep.head">Upload File(s)</message>
-	<message key="xmlui.Submission.submit.UploadStep.file">File</message>
+	<message key="xmlui.Submission.submit.UploadStep.head">بارگذاری فایل (ها)</message>
+	<message key="xmlui.Submission.submit.UploadStep.file">فایل</message>
 	<message key="xmlui.Submission.submit.UploadStep.file_help">Please enter the full path of the file on your computer corresponding to your item. If you click "Browse...", a new window will allow you to select the file from your computer.</message>
 	<message key="xmlui.Submission.submit.UploadStep.file_error">The item must contain at least one file.</message>
 	<message key="xmlui.Submission.submit.UploadStep.upload_error">There was a problem uploading your file.  Either the filename you entered was incorrect, there was a network problem which prevented the file from reaching us correctly, or you have attempted to upload a file format marked for internal system use only.  Please try again.</message>
 	<message key="xmlui.Submission.submit.UploadStep.virus_error">The file has not been uploaded as it appears to contain a virus. Please contact the system administrator.</message>
     <message key="xmlui.Submission.submit.UploadStep.virus_checker_error">A technical problem was encountered whilst attempting to scan the file for viruses. Please contact the system administrator.</message>
-    <message key="xmlui.Submission.submit.UploadStep.description">File Description</message>
+    <message key="xmlui.Submission.submit.UploadStep.description">File توضیحات</message>
 	<message key="xmlui.Submission.submit.UploadStep.description_help">Optionally, provide a brief description of the file, for example "<i>Main article</i>", or "<i>Experiment data readings</i>".</message>
 	<message key="xmlui.Submission.submit.UploadStep.submit_upload">Upload file &amp; add another</message>
-	<message key="xmlui.Submission.submit.UploadStep.head2">Files Uploaded</message>
-	<message key="xmlui.Submission.submit.UploadStep.column0">Primary</message>
+	<message key="xmlui.Submission.submit.UploadStep.head2">فایل های آپلود شده اند</message>
+	<message key="xmlui.Submission.submit.UploadStep.column0">اولیه </message>
 	<message key="xmlui.Submission.submit.UploadStep.column1">  </message>
-	<message key="xmlui.Submission.submit.UploadStep.column2">File</message>
-	<message key="xmlui.Submission.submit.UploadStep.column3">Size</message>
-	<message key="xmlui.Submission.submit.UploadStep.column4">Description</message>
-	<message key="xmlui.Submission.submit.UploadStep.column5">Format</message>
+	<message key="xmlui.Submission.submit.UploadStep.column2">فایل</message>
+	<message key="xmlui.Submission.submit.UploadStep.column3">اندازه</message>
+	<message key="xmlui.Submission.submit.UploadStep.column4">توضیحات</message>
+	<message key="xmlui.Submission.submit.UploadStep.column5">فرمت</message>
 	<message key="xmlui.Submission.submit.UploadStep.column6"></message>
-	<message key="xmlui.Submission.submit.UploadStep.unknown_name">Unknown</message>
-	<message key="xmlui.Submission.submit.UploadStep.unknown_format">unknown format</message>
-	<message key="xmlui.Submission.submit.UploadStep.supported">(Supported)</message>
-	<message key="xmlui.Submission.submit.UploadStep.known">(Known)</message>
-	<message key="xmlui.Submission.submit.UploadStep.unsupported">(Unsupported)</message>
-	<message key="xmlui.Submission.submit.UploadStep.submit_edit">Edit</message>
-	<message key="xmlui.Submission.submit.UploadStep.checksum">File checksum:</message>
+	<message key="xmlui.Submission.submit.UploadStep.unknown_name">ناشناخته</message>
+	<message key="xmlui.Submission.submit.UploadStep.unknown_format">فرمت ناشناخته</message>
+	<message key="xmlui.Submission.submit.UploadStep.supported">(پشتیبانی شده)</message>
+	<message key="xmlui.Submission.submit.UploadStep.known">(شناخته شده)</message>
+	<message key="xmlui.Submission.submit.UploadStep.unsupported">(پشتیبانی نشده)</message>
+	<message key="xmlui.Submission.submit.UploadStep.submit_edit">ویرایش </message>
+	<message key="xmlui.Submission.submit.UploadStep.checksum">جمع کنترلی فایل:</message>
 	<message key="xmlui.Submission.submit.UploadStep.submit_remove">Remove selected files</message>
 
 
 
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.head">Upload File(s)</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file">File</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.head">بارگذاری فایل (ها)</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file">فایل</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file_help">Please enter the full path of the file on your computer corresponding to your item. If you click "Browse...", a new window will allow you to select the file from your computer.</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.file_error">The item must contain at least one file.</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.upload_error">There was a problem uploading your file. Either the filename you entered was incorrect, there was a network problem which prevented the file from reaching us correctly, or you have attempted to upload a file format marked for internal system use only. Please try again.</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.virus_error">The file has not been uploaded as it appears to contain a virus. Please contact the system administrator.</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.virus_checker_error">A technical problem was encountered whilst attempting to scan the file for viruses. Please contact the system administrator.</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.description">File Description</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.description">توضیحات فایل</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.description_help">Optionally, provide a brief description of the file, for example "<i>Main article</i>", or "<i>Experiment data readings</i>".</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_upload">Upload file &amp; add another</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.head2">Files Uploaded</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column0">Primary</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.head2">فایل های آپلود شده اند</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column0">اولیه </message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column1">  </message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column2">File</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column3">Size</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column4">Description</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column5">Format</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column2">فایل</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column3">اندازه</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column4">توضیحات</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column5">فرمت</message>
     <message key="xmlui.Submission.submit.UploadWithEmbargoStep.column6"></message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.unknown_name">Unknown</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.unknown_format">unknown format</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.supported">(Supported)</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.known">(Known)</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.unsupported">(Unsupported)</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_edit">Edit</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.checksum">File checksum:</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_remove">Remove selected files</message>
-    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_policy">Policies</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.unknown_name">ناشناخته</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.unknown_format">فرمت ناشناخته</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.supported">(پشتیبانی شده)</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.known">(شناخته شده)</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.unsupported">(پشتیبانی نشده)</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_edit">ویرایش </message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.checksum">جمع کنترلی فایل:</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_remove">حذف فایل های انتخاب شده</message>
+    <message key="xmlui.Submission.submit.UploadWithEmbargoStep.submit_policy">خط مشی ها</message>
 
 
 	<!-- org.dspace.app.xmlui.Submission.submit.EditFileStep -->
-	<message key="xmlui.Submission.submit.EditFileStep.head">Edit File</message>
-	<message key="xmlui.Submission.submit.EditFileStep.file">File</message>
-	<message key="xmlui.Submission.submit.EditFileStep.description">File Description</message>
+	<message key="xmlui.Submission.submit.EditFileStep.head">ویرایش فایل</message>
+	<message key="xmlui.Submission.submit.EditFileStep.file">فایل</message>
+	<message key="xmlui.Submission.submit.EditFileStep.description">توضیحات فایل</message>
 	<message key="xmlui.Submission.submit.EditFileStep.description_help">Optionally, provide a brief description of the contents; for example, "<i>Main article</i>", or "<i>Experiment data readings</i>".</message>
 	<message key="xmlui.Submission.submit.EditFileStep.info1">Select the format of the file from the list below, for example "<i>Adobe PDF</i>" or "<i>Microsoft Word</i>." <strong>If the format is not in the list</strong>, please describe it in the input box below the list.</message>
 	<message key="xmlui.Submission.submit.EditFileStep.format_detected">Detected Format</message>
@@ -874,17 +874,17 @@
 
 	<!-- org.dspace.app.xmlui.Submission.submit.ReviewStep -->
 	<message key="xmlui.Submission.submit.ReviewStep.head">Review Submission</message>
-	<message key="xmlui.Submission.submit.ReviewStep.yes">Yes</message>
-	<message key="xmlui.Submission.submit.ReviewStep.no">No</message>
+	<message key="xmlui.Submission.submit.ReviewStep.yes">بله</message>
+	<message key="xmlui.Submission.submit.ReviewStep.no">خیر</message>
 	<message key="xmlui.Submission.submit.ReviewStep.submit_jump">Correct one of these</message>
 	<message key="xmlui.Submission.submit.ReviewStep.submit_jump_files">Add or remove a file</message>
-	<message key="xmlui.Submission.submit.ReviewStep.head1">Initial Questions</message>
-	<message key="xmlui.Submission.submit.ReviewStep.head2">Describe Page {0}</message>
+	<message key="xmlui.Submission.submit.ReviewStep.head1">سوالات اولیه</message>
+	<message key="xmlui.Submission.submit.ReviewStep.head2">شرح صفحه {0}</message>
 	<message key="xmlui.Submission.submit.ReviewStep.head3">Uploaded Files</message>
-	<message key="xmlui.Submission.submit.ReviewStep.multiple_titles">Multiple titles</message>
+	<message key="xmlui.Submission.submit.ReviewStep.multiple_titles">عناوین چندگانه</message>
 	<message key="xmlui.Submission.submit.ReviewStep.published_before">Published before</message>
 	<message key="xmlui.Submission.submit.ReviewStep.no_metadata">-</message>
-	<message key="xmlui.Submission.submit.ReviewStep.unknown">unknown</message>
+	<message key="xmlui.Submission.submit.ReviewStep.unknown">ناشناخته</message>
 	<message key="xmlui.Submission.submit.ReviewStep.known">known</message>
 	<message key="xmlui.Submission.submit.ReviewStep.supported">supported</message>
 
@@ -995,7 +995,7 @@
 	<message key="xmlui.administrative.Navigation.context_edit_collection">Edit Collection</message>
 	<message key="xmlui.administrative.Navigation.context_item_mapper">Item Mapper</message>
 	<message key="xmlui.administrative.Navigation.context_edit_community">Edit Community</message>
-	<message key="xmlui.administrative.Navigation.context_create_collection">Create Collection</message>
+	<message key="xmlui.administrative.Navigation.context_create_collection">ایجاد مجموعه</message>
 	<message key="xmlui.administrative.Navigation.context_create_subcommunity">Create Sub-community</message>
 	<message key="xmlui.administrative.Navigation.context_create_community">Create Community</message>
 	<message key="xmlui.administrative.Navigation.context_export_item">Export Item</message>
@@ -1007,14 +1007,14 @@
 	<!-- Site administrator options -->
 	<message key="xmlui.administrative.Navigation.administrative_head">Administrative</message>
 	<message key="xmlui.administrative.Navigation.administrative_access_control">Access Control</message>
-	<message key="xmlui.administrative.Navigation.administrative_people">People</message>
-	<message key="xmlui.administrative.Navigation.administrative_groups">Groups</message>
+	<message key="xmlui.administrative.Navigation.administrative_people">مردم</message>
+	<message key="xmlui.administrative.Navigation.administrative_groups">گروه ها</message>
 	<message key="xmlui.administrative.Navigation.administrative_authorizations">Authorizations</message>
 	<message key="xmlui.administrative.Navigation.administrative_registries">Registries</message>
 	<message key="xmlui.administrative.Navigation.administrative_metadata">Metadata</message>
-	<message key="xmlui.administrative.Navigation.administrative_format">Format</message>
+	<message key="xmlui.administrative.Navigation.administrative_format">فرمت</message>
     <message key="xmlui.administrative.Navigation.administrative_content">Content Administration</message>
-	<message key="xmlui.administrative.Navigation.administrative_items">Items</message>
+	<message key="xmlui.administrative.Navigation.administrative_items">موارد</message>
     <message key="xmlui.administrative.Navigation.administrative_withdrawn">Withdrawn Items</message>
     <message key="xmlui.administrative.Navigation.administrative_private">Private Items</message>
     <message key="xmlui.administrative.Navigation.administrative_control_panel">Control Panel</message>
@@ -1045,7 +1045,7 @@
     <!-- org.dspace.app.xmlui.administrative.eperson.ManageEPeopleMain -->
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.title">Manage E-people</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.main_head">E-person management</message>
-	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_head">Actions</message>
+	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_head">اعمال</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_create">Create a new E-Person</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_create_link">Click here to add a new E-Person.</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.actions_browse">Browse E-People</message>
@@ -1056,7 +1056,7 @@
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_head">Search results</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column1"></message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column2">ID</message>
-	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column3">Name</message>
+	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column3">نام</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.search_column4">Email</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.submit_delete">Delete E-People</message>
 	<message key="xmlui.administrative.eperson.ManageEPeopleMain.no_results">Your search found no results...</message>
@@ -1088,7 +1088,7 @@
 	<message key="xmlui.administrative.eperson.EditEPersonForm.error_lname">Last name is required</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.req_certs">Require Certificate</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.can_log_in">Can Log In</message>
-	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_reset_password">Reset Password</message>
+	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_reset_password">تغییر رمز ورود</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.special_help">You may also permanently remove this E-Person from the system or reset his/her password. When resetting a password the user will be sent an email containing a special link they can follow to choose a new password.</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_delete">Delete E-Person</message>
 	<message key="xmlui.administrative.eperson.EditEPersonForm.submit_login_as">Login as E-Person</message>
@@ -1107,12 +1107,12 @@
 
 	<!-- org.dspace.app.xmlui.administrative.eperson.DeleteEPeopleConfirm -->
 	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.title">Confirm E-Person Deletion</message>
-	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.trail">Confirm Delete</message>
-	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.confirm_head">Confirm Deletion</message>
+	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.trail">تایید حذف</message>
+	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.confirm_head">تأیید حذف</message>
 	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.confirm_para">The following E-People will be deleted: </message>
-	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.submit_confirm">Confirm Deletion</message>
+	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.submit_confirm">تأیید حذف</message>
 	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.head_id">ID</message>
-	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.head_name">Name</message>
+	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.head_name">نام</message>
 	<message key="xmlui.administrative.eperson.DeleteEPeopleConfirm.head_email">Email</message>
 
 	<!-- general items for all of the group classes -->
@@ -1121,7 +1121,7 @@
 	<!-- org.dspace.app.xmlui.administrative.group.ManageGroupsMain -->
 	<message key="xmlui.administrative.group.ManageGroupsMain.title">Manage Groups</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.main_head">Group management</message>
-	<message key="xmlui.administrative.group.ManageGroupsMain.actions_head">Actions</message>
+	<message key="xmlui.administrative.group.ManageGroupsMain.actions_head">اعمال</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.actions_create">Create a new group</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.actions_create_link">Click here to add a new Group.</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.actions_browse">Browse groups</message>
@@ -1131,7 +1131,7 @@
 	<message key="xmlui.administrative.group.ManageGroupsMain.search_head">Search results</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.search_column1"></message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.search_column2">ID</message>
-	<message key="xmlui.administrative.group.ManageGroupsMain.search_column3">Name</message>
+	<message key="xmlui.administrative.group.ManageGroupsMain.search_column3">نام</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.search_column4">Members</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.search_column5">Community / Collection</message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.collection_link">View</message>
@@ -1139,17 +1139,17 @@
 	<message key="xmlui.administrative.group.ManageGroupsMain.no_results">Your search found no results...</message>
 
 	<!-- org.dspace.app.xmlui.administrative.group.EditGroupForm -->
-	<message key="xmlui.administrative.group.EditGroupForm.title">Group Editor</message>
-	<message key="xmlui.administrative.group.EditGroupForm.trail">Edit group</message>
-	<message key="xmlui.administrative.group.EditGroupForm.main_head">Group Editor: {0} (id: {1})</message>
-	<message key="xmlui.administrative.group.EditGroupForm.main_head_new">Group Editor: new group</message>
-	<message key="xmlui.administrative.group.EditGroupForm.submit_clear">Clear search</message>
-	<message key="xmlui.administrative.group.EditGroupForm.member">Member</message>
+	<message key="xmlui.administrative.group.EditGroupForm.title">ویرایشگر گروه</message>
+	<message key="xmlui.administrative.group.EditGroupForm.trail">ویرایش گروه</message>
+	<message key="xmlui.administrative.group.EditGroupForm.main_head">ویرایشگر گروه: {0} (id: {1})</message>
+	<message key="xmlui.administrative.group.EditGroupForm.main_head_new">ویرایشگر گروه: گروه جدید</message>
+	<message key="xmlui.administrative.group.EditGroupForm.submit_clear">پاک کردن جستجو</message>
+	<message key="xmlui.administrative.group.EditGroupForm.member">عضو</message>
 	<message key="xmlui.administrative.group.EditGroupForm.cycle">Cycle</message>
 	<message key="xmlui.administrative.group.EditGroupForm.pending">Pending</message>
 	<message key="xmlui.administrative.group.EditGroupForm.pending_warn">Note, pending changes are not saved until you click the save button.</message>
-	<message key="xmlui.administrative.group.EditGroupForm.submit_add">Add</message>
-	<message key="xmlui.administrative.group.EditGroupForm.submit_remove">Remove</message>
+	<message key="xmlui.administrative.group.EditGroupForm.submit_add">اضافه کردن</message>
+	<message key="xmlui.administrative.group.EditGroupForm.submit_remove">حذف</message>
 	<message key="xmlui.administrative.group.EditGroupForm.collection_para">This group is associated with collection: </message>
 	<message key="xmlui.administrative.group.EditGroupForm.community_para">This group is associated with community: </message>
 	<message key="xmlui.administrative.group.EditGroupForm.label_name">Change group name: </message>
@@ -1159,18 +1159,18 @@
 	<message key="xmlui.administrative.group.EditGroupForm.submit_search_groups">Groups...</message>
 	<message key="xmlui.administrative.group.EditGroupForm.no_results">Your search found no results...</message>
 	<message key="xmlui.administrative.group.EditGroupForm.epeople_column1">ID</message>
-	<message key="xmlui.administrative.group.EditGroupForm.epeople_column2">Name</message>
+	<message key="xmlui.administrative.group.EditGroupForm.epeople_column2">نام</message>
 	<message key="xmlui.administrative.group.EditGroupForm.epeople_column3">Email</message>
 	<message key="xmlui.administrative.group.EditGroupForm.epeople_column4"></message>
 	<message key="xmlui.administrative.group.EditGroupForm.groups_column1">ID</message>
-	<message key="xmlui.administrative.group.EditGroupForm.groups_column2">Name</message>
+	<message key="xmlui.administrative.group.EditGroupForm.groups_column2">نام</message>
 	<message key="xmlui.administrative.group.EditGroupForm.groups_column3">Members</message>
-	<message key="xmlui.administrative.group.EditGroupForm.groups_column4">Collection</message>
+	<message key="xmlui.administrative.group.EditGroupForm.groups_column4">مجموعه</message>
 	<message key="xmlui.administrative.group.EditGroupForm.groups_column5"></message>
 	<message key="xmlui.administrative.group.ManageGroupsMain.groups_collection_link">view</message>
 	<message key="xmlui.administrative.group.EditGroupForm.members_head">Members</message>
 	<message key="xmlui.administrative.group.EditGroupForm.members_column1">ID</message>
-	<message key="xmlui.administrative.group.EditGroupForm.members_column2">Name</message>
+	<message key="xmlui.administrative.group.EditGroupForm.members_column2">نام</message>
 	<message key="xmlui.administrative.group.EditGroupForm.members_column3">Email</message>
 	<message key="xmlui.administrative.group.EditGroupForm.members_column4"></message>
 	<message key="xmlui.administrative.group.EditGroupForm.members_group_name">group: {0}</message>
@@ -1181,13 +1181,13 @@
 
 	<!-- org.dspace.app.xmlui.administrative.group.DeleteGroupsConfirm -->
 	<message key="xmlui.administrative.group.DeleteGroupsConfirm.title">Confirm Group Deletion</message>
-	<message key="xmlui.administrative.group.DeleteGroupsConfirm.trail">Confirm Delete</message>
-	<message key="xmlui.administrative.group.DeleteGroupsConfirm.head">Confirm Deletion</message>
+	<message key="xmlui.administrative.group.DeleteGroupsConfirm.trail">تایید حذف</message>
+	<message key="xmlui.administrative.group.DeleteGroupsConfirm.head">تأیید حذف</message>
 	<message key="xmlui.administrative.group.DeleteGroupsConfirm.para">The following Groups will be deleted:</message>
 	<message key="xmlui.administrative.group.DeleteGroupsConfirm.column1">ID</message>
-	<message key="xmlui.administrative.group.DeleteGroupsConfirm.column2">Name</message>
+	<message key="xmlui.administrative.group.DeleteGroupsConfirm.column2">نام</message>
 	<message key="xmlui.administrative.group.DeleteGroupsConfirm.column3">E-People</message>
-	<message key="xmlui.administrative.group.DeleteGroupsConfirm.column4">Groups</message>
+	<message key="xmlui.administrative.group.DeleteGroupsConfirm.column4">گروه ها</message>
 
 	<!-- general items for all of the registries classes -->
 	<message key="xmlui.administrative.registries.general.format_registry_trail">Format registry</message>
@@ -1196,33 +1196,33 @@
 	<!-- org.dspace.app.xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.java -->
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.title">Delete Bitstream Formats</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.trail">Delete bitstream formats</message>
-	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.head">Confirm Deletion</message>
+	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.head">تأیید حذف</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.para1">Are you sure the format should be deleted? Any existing bitstreams of this format will be reverted to the unknown bitstream format.</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column1">ID</message>
 	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column2">MIME Type</message>
-	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column3">Name</message>
+	<message key="xmlui.administrative.registries.DeleteBitstreamFormatsConfirm.column3">نام</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.DeleteMetadataFieldsConfirm.java -->
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.title">Delete Fields</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.trail">Delete fields</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.head">Confirm Deletion</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.head">تأیید حذف</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.para1">Are you <b>absolutely</b> sure you want to delete these fields? If any items contain metadata for these fields, the field(s) cannot be deleted. You must ensure that no items use these fields.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.warning">WARNING: </message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.para2">This will cause an error if any item contains metadata for these fields.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column1">ID</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column2">Name</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column2">نام</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataFieldsConfirm.column3">Scope Note</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.DeleteMetadataSchemaConfirm.java-->
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.title">Delete Schema</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.trail">Delete schema</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.head">Confirm Deletion</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.head">تأیید حذف</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.para1">Are you <b>absolutely</b> sure you want to delete this schema? If any items contain metadata for fields contained within this schema, the schema cannot be deleted. You must ensure that no items contain metadata in this schema.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.warning">WARNING: </message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.para2">This will cause an error if any item contains metadata within this schema.</message>
 	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column1">ID</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column2">Namespace</message>
-	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column3">Name</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column2">دامنه نام ها</message>
+	<message key="xmlui.administrative.registries.DeleteMetadataSchemaConfirm.column3">نام</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.EditBitstreamFormat.java -->
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.title">Bitstream Format</message>
@@ -1230,15 +1230,15 @@
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.head1">New bitstream format</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.head2">Bitstream format: {0}</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.para1">Provide descriptive metadata about the bitstream format below. While format names must be unique, MIME types do not need to be. You may have separate format registry entries for different versions of Microsoft Word, even though the MIME type will be the same for each of them.</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.name">Name</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.name">نام</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.name_help">A unique name for this format, (e.g. Microsoft Word XP or Microsoft Word 2000)</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.name_error">The name field is required.</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.mimetype">MIME Type</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.mimetype_help">The MIME type associated with this format, does not have to be unique.</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.description">Description</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.description">توضیحات</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support">Support level</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_help">The level of support your institution pledges for this format.</message>
-	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_0">Unknown</message>
+	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_0">ناشناخته</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_1">Known</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.support_2">Supported</message>
 	<message key="xmlui.administrative.registries.EditBitstreamFormat.internal">Internal</message>
@@ -1281,13 +1281,13 @@
 	<message key="xmlui.administrative.registries.FormatRegistryMain.new_link">Add a new bitstream format</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.column1"></message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.column2">ID</message>
-	<message key="xmlui.administrative.registries.FormatRegistryMain.column3">Name</message>
+	<message key="xmlui.administrative.registries.FormatRegistryMain.column3">نام</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.column4">MIME Type</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.column5">Support Level</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.internal">(<i>internal</i>)</message>
-	<message key="xmlui.administrative.registries.FormatRegistryMain.support_0">Unknown</message>
-	<message key="xmlui.administrative.registries.FormatRegistryMain.support_1">Known</message>
-	<message key="xmlui.administrative.registries.FormatRegistryMain.support_2">Support</message>
+	<message key="xmlui.administrative.registries.FormatRegistryMain.support_0">ناشناخته</message>
+	<message key="xmlui.administrative.registries.FormatRegistryMain.support_1">شناخته شده</message>
+	<message key="xmlui.administrative.registries.FormatRegistryMain.support_2">حمایت</message>
 	<message key="xmlui.administrative.registries.FormatRegistryMain.submit_delete">Delete formats</message>
 
 	<!-- org.dspace.app.xmlui.administrative.registries.MetadatRegistryMain.java -->
@@ -1296,14 +1296,14 @@
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.para1">The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas.  However, DSpace requires the qualified Dublin Core schema. You may extend the Dublin Core schema with additional fields or add new schemas to the registry.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.column1"></message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.column2">ID</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.column3">Namespace</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.column4">Name</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.column3">دامنه نام ها</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.column4">نام</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.submit_delete">Delete schema</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.head2">Add a new schema</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace">Namespace</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace">دامنه نام ها</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace_help">Namespace should be an established URI location for the new schema.</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace_error">This field is required.</message>
-	<message key="xmlui.administrative.registries.MetadataRegistryMain.name">Name</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.namespace_error">این فیلد مورد نیاز است.</message>
+	<message key="xmlui.administrative.registries.MetadataRegistryMain.name">نام</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.name_help">Shorthand notation for the schema. This will be used to prefix a field's name (e.g. dc.element.qualifier). The name must be less than 32 characters and cannot include spaces, periods or underscores.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.name_error">This field is required and must be less than 32 characters and cannot contain any spaces, periods, or underscores.</message>
 	<message key="xmlui.administrative.registries.MetadataRegistryMain.submit_add">Add new schema</message>
@@ -1314,7 +1314,7 @@
 	<message key="xmlui.administrative.registries.MoveMetadataField.head1">Move metadata fields</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.para1">Select a target schema where these fields will be moved. If the target schema already has fields with identical names the fields will not be moved.</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.column1">ID</message>
-	<message key="xmlui.administrative.registries.MoveMetadataField.column2">Name</message>
+	<message key="xmlui.administrative.registries.MoveMetadataField.column2">نام</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.column3">Scope Note</message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.para2">Move to schema: </message>
 	<message key="xmlui.administrative.registries.MoveMetadataField.submit_move">Move fields</message>
@@ -1347,15 +1347,15 @@
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_head_collection">Policies for Collection "{0}" ({1},ID: {2})</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_head_community">Policies for Community "{0}" ({1},ID: {2})</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.main_add_link">Click here to add a new policy. </message>
-	<message key="xmlui.administrative.authorization.EditContainerPolicies.submit_add">Add</message>
+	<message key="xmlui.administrative.authorization.EditContainerPolicies.submit_add">اضافه کردن</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.head_id">ID</message>
-    <message key="xmlui.administrative.authorization.EditContainerPolicies.head_name">Name</message>
+    <message key="xmlui.administrative.authorization.EditContainerPolicies.head_name">نام</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.head_action">Action</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.head_group">Group</message>
-    <message key="xmlui.administrative.authorization.EditContainerPolicies.head_start_date">Start Date</message>
-    <message key="xmlui.administrative.authorization.EditContainerPolicies.head_end_date">End Date</message>
+    <message key="xmlui.administrative.authorization.EditContainerPolicies.head_start_date">تاریخ شروع</message>
+    <message key="xmlui.administrative.authorization.EditContainerPolicies.head_end_date">تاریخ پایان</message>
 	<message key="xmlui.administrative.authorization.EditContainerPolicies.submit_delete">Delete Selected</message>
-	<message key="xmlui.administrative.authorization.EditContainerPolicies.group_edit">Edit</message>
+	<message key="xmlui.administrative.authorization.EditContainerPolicies.group_edit">ویرایش </message>
 
 
 
@@ -1384,7 +1384,7 @@
 	<message key="xmlui.administrative.authorization.EditPolicyForm.error_no_action">No action selected</message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_column4"></message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_column1">ID</message>
-	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_column2">Name</message>
+	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_column2">نام</message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_column3">Actions for this resource</message>
 
 	<message key="xmlui.administrative.authorization.EditPolicyForm.set_group">Set</message>
@@ -1392,14 +1392,14 @@
 	<message key="xmlui.administrative.authorization.EditPolicyForm.groups_head">Search Results</message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.policy_currentGroup">Select a group</message>
 	<message key="xmlui.administrative.authorization.EditPolicyForm.label_search">Search for a group</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.submit_search_groups">Search</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.submit_search_groups">جستجو</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_action">Select the action</message>
 
-    <message key="xmlui.administrative.authorization.EditPolicyForm.label_name">Name</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.label_description">Description</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.label_start_date">Start Date</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.label_end_date">End Date</message>
-    <message key="xmlui.administrative.authorization.EditPolicyForm.error_date_format">Invalid date</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.label_name">نام</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.label_description">توضیحات</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.label_start_date">تاریخ شروع</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.label_end_date">تاریخ پایان</message>
+    <message key="xmlui.administrative.authorization.EditPolicyForm.error_date_format">تاریخ نا معتبر</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.error_duplicated_policy">An identical policy for this group and this action is already in place.</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.error_start_date_greater_than_end_date">Start date is greater than end date</message>
     <message key="xmlui.administrative.authorization.EditPolicyForm.label_date_help">Accepted format: yyyy, yyyy-mm, yyyy-mm-dd</message>
@@ -1416,15 +1416,15 @@
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyGroup">Group</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyAction">Action</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyResource">Content Type</message>
-	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyCollections">Collection</message>
+	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.actions_policyCollections">مجموعه</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.submit_add">Add policies</message>
 	<message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.submit_remove_all">Clear policies</message>
     <message key="xmlui.administrative.authorization.AdvacedAuthorizationsForm.label_date_help">Accepted format: yyyy, yyyy-mm, yyyy-mm-dd</message>
 
-    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_name">Name</message>
-    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_description">Description</message>
-    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_start_date">Start Date</message>
-    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_end_date">End Date</message>
+    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_name">نام</message>
+    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_description">توضیحات</message>
+    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_start_date">تاریخ شروع</message>
+    <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.actions_end_date">تاریخ پایان</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_date_format">Invalid date</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_start_date_greater_than_end_date">Start date is greater than end date</message>
     <message key="xmlui.administrative.authorization.AdvancedAuthorizationsForm.error_groupIds">Select at least a group</message>
@@ -1432,8 +1432,8 @@
 
 	<!-- org.dspace.app.xmlui.administrative.authorization.DeletePoliciesConfirm -->
 	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.title">Confirm Policy Deletion</message>
-	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.trail">Confirm Delete</message>
-	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.confirm_head">Confirm Deletion</message>
+	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.trail">تایید حذف</message>
+	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.confirm_head">تأیید حذف</message>
 	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.confirm_para">The following Policies will be removed: </message>
 	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.head_id">ID</message>
 	<message key="xmlui.administrative.authorization.DeletePoliciesConfirm.head_action">Action</message>
@@ -1442,10 +1442,10 @@
 
     <!-- Batch Import Tool -->
     <!-- org.dspace.app.xmlui.administrative.batchimport -->
-    <message key="xmlui.administrative.batchimport.general.select_collection">Select a collection</message>
-    <message key="xmlui.administrative.batchimport.general.collection">Collection</message>
+    <message key="xmlui.administrative.batchimport.general.select_collection">یک مجموعه را انتخاب کنید</message>
+    <message key="xmlui.administrative.batchimport.general.collection">مجموعه</message>
     <message key="xmlui.administrative.batchimport.general.collection_help">Select the collection you wish to submit an item to.</message>
-    <message key="xmlui.administrative.batchimport.general.collection_default">Select a collection...</message>
+    <message key="xmlui.administrative.batchimport.general.collection_default">یک مجموعه را انتخاب کنید...</message>
 
     <message key="xmlui.administrative.batchimport.general.title">Import Batch Load (ZIP)</message>
     <message key="xmlui.administrative.batchimport.general.head1">Import Batch Load (ZIP)</message>
@@ -1475,13 +1475,13 @@
     <message key="xmlui.administrative.batchimport.BatchImportUpload.item_remove">Remove: </message>
 
 	<!-- general edit item messages -->
-	<message key="xmlui.administrative.item.general.item_trail">Items</message>
+	<message key="xmlui.administrative.item.general.item_trail">موارد</message>
 	<message key="xmlui.administrative.item.general.template_head">Edit Template Item for Collection: {0}</message>
 	<message key="xmlui.administrative.item.general.option_head">Edit Item</message>
 	<message key="xmlui.administrative.item.general.option_status">Item Status</message>
 	<message key="xmlui.administrative.item.general.option_bitstreams">Item Bitstreams</message>
 	<message key="xmlui.administrative.item.general.option_metadata">Item Metadata</message>
-	<message key="xmlui.administrative.item.general.option_view">View Item</message>
+	<message key="xmlui.administrative.item.general.option_view">مشاهده موارد</message>
         <message key="xmlui.administrative.item.general.option_curate">Curate</message>
         <message key="xmlui.administrative.item.general.option_queue">Queue</message>
 
@@ -1495,21 +1495,21 @@
 	<message key="xmlui.administrative.item.AddBitstreamForm.bundle.THUMBNAIL">Thumbnails</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.bundle.LICENSE">Licenses</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.bundle.CC-LICENSE">Creative Commons Licenses</message>
-	<message key="xmlui.administrative.item.AddBitstreamForm.file_label">File</message>
+	<message key="xmlui.administrative.item.AddBitstreamForm.file_label">فایل</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.file_help">Please enter the name of the file on your computer corresponding to your item. If you click "Browse...", a new window will appear in which you can locate and select the file from your computer.</message>
-	<message key="xmlui.administrative.item.AddBitstreamForm.description_label">Description</message>
+	<message key="xmlui.administrative.item.AddBitstreamForm.description_label">توضیحات</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.description_help">Optionally, provide a brief description of the file, for example "<i>Main article</i>", or "<i>Experiment data readings</i>".</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.submit_upload">Upload</message>
 	<message key="xmlui.administrative.item.AddBitstreamForm.no_bundles">You need the ADD &amp; WRITE privilege on at least one bundle to be able to upload new bitstreams.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.DeleteBitstreamConfirm -->
-	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.title">Confirm Deletion</message>
-	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.trail">Confirm deletion</message>
-	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.head1">Confirm Deletion(s)</message>
+	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.title">تأیید حذف</message>
+	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.trail">تأیید حذف</message>
+	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.head1">تأیید حذف(ها)</message>
 	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.para1">Are you sure you want to delete these bitstreams:</message>
-	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.column1">Name</message>
-	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.column2">Description</message>
-	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.column3">Format</message>
+	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.column1">نام</message>
+	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.column2">توضیحات</message>
+	<message key="xmlui.administrative.item.DeleteBitstreamConfirm.column3">فرمت</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.ConfirmItemForm -->
 	<message key="xmlui.administrative.item.ConfirmItemForm.title">Confirm</message>
@@ -1520,50 +1520,50 @@
 	<message key="xmlui.administrative.item.ConfirmItemForm.para_reinstate">Are you sure this item should be reinstated to the archive?</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.column1">Field</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.column2">Value</message>
-	<message key="xmlui.administrative.item.ConfirmItemForm.column3">Language</message>
+	<message key="xmlui.administrative.item.ConfirmItemForm.column3">زبان</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.submit_withdraw">Withdraw</message>
 	<message key="xmlui.administrative.item.ConfirmItemForm.submit_reinstate">Reinstate</message>
     <message key="xmlui.administrative.item.ConfirmItemForm.submit_private">Make it Private</message>
     <message key="xmlui.administrative.item.ConfirmItemForm.submit_public">Make it Public</message>
 
     <!-- org.dspace.app.xmlui.aspect.administrative.item.MoveItemForm -->
-	<message key="xmlui.administrative.item.MoveItemForm.title">Move</message>
-	<message key="xmlui.administrative.item.MoveItemForm.trail">Move</message>
-	<message key="xmlui.administrative.item.MoveItemForm.head1">Move item: {0}</message>
-	<message key="xmlui.administrative.item.MoveItemForm.collection">Collection</message>
-	<message key="xmlui.administrative.item.MoveItemForm.collection_help">Select the collection you wish to move this item to.</message>
-	<message key="xmlui.administrative.item.MoveItemForm.collection_default">Select a collection...</message>
-	<message key="xmlui.administrative.item.MoveItemForm.submit_move">Move</message>
-    <message key="xmlui.administrative.item.MoveItemForm.inherit_policies">Inherit policies</message>
-    <message key="xmlui.administrative.item.MoveItemForm.inherit_policies_help">Inherit the default policies of the destination collection</message>
+	<message key="xmlui.administrative.item.MoveItemForm.title">انتقال</message>
+	<message key="xmlui.administrative.item.MoveItemForm.trail">انتقال</message>
+	<message key="xmlui.administrative.item.MoveItemForm.head1">انتقال مورد: {0}</message>
+	<message key="xmlui.administrative.item.MoveItemForm.collection">مجموعه</message>
+	<message key="xmlui.administrative.item.MoveItemForm.collection_help">مجموعه ای که این مورد را میخواهید در آن قرار دهید را انتخاب کنید.</message>
+	<message key="xmlui.administrative.item.MoveItemForm.collection_default">یک مجموعه را انتخاب کنید...</message>
+	<message key="xmlui.administrative.item.MoveItemForm.submit_move">انتقال</message>
+    <message key="xmlui.administrative.item.MoveItemForm.inherit_policies">پیروی از خط مشی ها</message>
+    <message key="xmlui.administrative.item.MoveItemForm.inherit_policies_help">پیروی از خط مشی های پیش فرض مجموعه مقصد</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.EditBitstreamForm -->
-	<message key="xmlui.administrative.item.EditBitstreamForm.title">Edit Bitstream</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.trail">Edit bitstream</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.head1">Edit Bitstream</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.file_label">File</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.primary_label">Primary bitstream</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.primary_option_yes">yes</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.primary_option_no">no</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.description_label">Description</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.description_help">Optionally, provide a brief description of the file, for example "<i>Main article</i>", or "<i>Experiment data readings</i>"."</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.para1">Select the format of the file from the list below, for example "<i>Adobe PDF</i>" or "<i>Microsoft Word</i>", <b>OR</b> if the format is not in the list, please describe it in the box below.</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.format_label">Selected Format</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.format_default">Format not in list</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.para2">If the format is not in the above list, <strong>select "format not in list" above</strong> and describe it in the field below.</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.user_label">Other Format</message>
-	<message key="xmlui.administrative.item.EditBitstreamForm.user_help">The application you used to create the file, and the version number (for example, "<i>ACMESoft SuperApp version 1.5</i>").</message>
-    <message key="xmlui.administrative.item.EditBitstreamForm.name_label">Filename</message>
-    <message key="xmlui.administrative.item.EditBitstreamForm.name_help">Change the filename for this bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.title">ویرایش دنباله بیتی</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.trail">ویرایش دنباله بیتی</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.head1">ویرایش دنباله بیتی</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.file_label">فایل</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.primary_label">دنباله بیتی اولیه</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.primary_option_yes">بله</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.primary_option_no">خیر</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.description_label">توضیحات</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.description_help">درصورت امکان توضیح مختصری از فایل را ارائه دهید، مثلا "<i> مقاله اصلی </i>" یا "<i> خواندن داده های آزمایشی </i>"."</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.para1">فرمت فایل را از لیست زیر انتخاب کنید، مثلا "<i> Adobe PDF </i>" یا "<i> Microsoft Word </i>"، <b> OR </b> اگر فرمت در لیست نیست، لطفا آن را در جعبه زیر توضیح دهید.</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.format_label">فرمت انتخاب شده</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.format_default">فرمت در لیست موجود نمیباشد.</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.para2">اگر فرمت در لیست بالا نیست، <strong> "فرمت در لیست نیست" را انتخاب کنید </strong> و آن را در فیلد زیر توصیف کنید.</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.user_label">فرمت های دیگر</message>
+	<message key="xmlui.administrative.item.EditBitstreamForm.user_help">برنامه مورد استفاده برای ایجاد فایل و شماره نسخه (به عنوان مثال، "<i> ACMESoft SuperApp نسخه 1.5 </i>").</message>
+    <message key="xmlui.administrative.item.EditBitstreamForm.name_label">نام فایل</message>
+    <message key="xmlui.administrative.item.EditBitstreamForm.name_help">نام فایل را برای این جریان بیت تغییر دهید. توجه داشته باشید که این باعث تغییر URL بیت جریان نمایش می شود، اما پیوندهای قدیمی هنوز هم تا زمانی که شناسه توالی تغییر نکند، حل و فصل خواهند شد.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.EditItemBitstreamsForm -->
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.title">Item Bitstreams</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.trail">Item bitstreams</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.head1">Bitstreams</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column1"></message>
-	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column2">Name</message>
-	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column3">Description</message>
-	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column4">Format</message>
+	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column2">نام</message>
+	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column3">توضیحات</message>
+	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column4">فرمت</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column5">View</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column6">Order</message>
 	<message key="xmlui.administrative.item.EditItemBitstreamsForm.column7"> </message>
@@ -1583,16 +1583,16 @@
 	<message key="xmlui.administrative.item.EditItemMetadataForm.title">Item Metadata</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.trail">Item metadata</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.head1">Add new metadata</message>
-	<message key="xmlui.administrative.item.EditItemMetadataForm.name_label">Name</message>
+	<message key="xmlui.administrative.item.EditItemMetadataForm.name_label">نام</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.value_label">Value</message>
-	<message key="xmlui.administrative.item.EditItemMetadataForm.lang_label">Language</message>
+	<message key="xmlui.administrative.item.EditItemMetadataForm.lang_label">زبان</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.submit_add">Add new metadata</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.para1">PLEASE NOTE: These changes are not validated in any way. You are responsible for entering the data in the correct format. If you are not sure what the format is, please do NOT make changes.</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.head2">Metadata</message>
-	<message key="xmlui.administrative.item.EditItemMetadataForm.column1">Remove</message>
-	<message key="xmlui.administrative.item.EditItemMetadataForm.column2">Name</message>
+	<message key="xmlui.administrative.item.EditItemMetadataForm.column1">حذف</message>
+	<message key="xmlui.administrative.item.EditItemMetadataForm.column2">نام</message>
 	<message key="xmlui.administrative.item.EditItemMetadataForm.column3">Value</message>
-	<message key="xmlui.administrative.item.EditItemMetadataForm.column4">Language</message>
+	<message key="xmlui.administrative.item.EditItemMetadataForm.column4">زبان</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.EditItemStatusForm -->
 	<message key="xmlui.administrative.item.EditItemStatusForm.title">Item Status</message>
@@ -1625,13 +1625,13 @@
 
 
 	<!-- org.dspace.app.xmlui.administrative.item.ViewItem -->
-	<message key="xmlui.administrative.item.ViewItem.title">View Item</message>
-	<message key="xmlui.administrative.item.ViewItem.trail">View Item</message>
+	<message key="xmlui.administrative.item.ViewItem.title">مشاهده موارد</message>
+	<message key="xmlui.administrative.item.ViewItem.trail">مشاهده موارد</message>
         <!-- org.dspace.app.xmlui.administrative.item.CurateItemForm.java -->
         <message key="xmlui.administrative.item.CurateItemForm.main_head">Curate Item: {0}</message>
         <message key="xmlui.administrative.item.CurateItemForm.title">Curate Item</message>
         <message key="xmlui.administrative.item.CurateItemForm.trail">Curator</message>
-        <message key="xmlui.administrative.item.CurateItemForm.label_name">Task</message>
+        <message key="xmlui.administrative.item.CurateItemForm.label_name">وظیفه</message>
 
 	<!-- org.dspace.app.xmlui.administrative.item.FindItemForm -->
 	<message key="xmlui.administrative.item.FindItemForm.title">Find Item</message>
@@ -1695,20 +1695,20 @@
 	<message key="xmlui.administrative.mapper.MapperMain.para2">This is the item mapper tool that allows collection administrators to map items from other collections into this collection. You can search for items from other collections and map them, or browse the list of currently mapped items.</message>
 	<message key="xmlui.administrative.mapper.MapperMain.stat_label">Statistics</message>
 	<message key="xmlui.administrative.mapper.MapperMain.stat_info"><strong>{0} of {1}</strong> items in this collection are mapped in from other collections</message>
-	<message key="xmlui.administrative.mapper.MapperMain.search_label">Search</message>
-	<message key="xmlui.administrative.mapper.MapperMain.submit_search">Search Items</message>
+	<message key="xmlui.administrative.mapper.MapperMain.search_label">جستجو</message>
+	<message key="xmlui.administrative.mapper.MapperMain.submit_search">جستجو موارد</message>
 	<message key="xmlui.administrative.mapper.MapperMain.submit_browse">Browse mapped items</message>
 	<message key="xmlui.administrative.mapper.MapperMain.no_add">(Requires the collection ADD privilege)</message>
 
 	<!-- org.dspace.app.xmlui.administrative.mapper.SearchItemForm -->
-	<message key="xmlui.administrative.mapper.SearchItemForm.title">Search Items</message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.trail">Search items</message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.head1">Search items matching: "{0}"</message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.submit_map">Map selected items</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.title">جستجو موارد</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.trail">جستجو موارد</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.head1">جستجو موارد منطبق با: "{0}"</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.submit_map">موارد انتخابی را تطبیق بده</message>
 	<message key="xmlui.administrative.mapper.SearchItemForm.column1"></message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.column2">Collection</message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.column3">Author</message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.column4">Title</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.column2">مجموعه</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.column3">نویسنده</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.column4">عنوان</message>
 
 	<!-- org.dspace.app.xmlui.administrative.mapper.BrowseItemForm -->
 	<message key="xmlui.administrative.mapper.BrowseItemForm.title">Browse Mapped Items</message>
@@ -1716,13 +1716,13 @@
 	<message key="xmlui.administrative.mapper.BrowseItemForm.head1">Browsing mapped items</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.submit_unmap">Unmap selected items</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column1"></message>
-	<message key="xmlui.administrative.mapper.BrowseItemForm.column2">Collection</message>
-	<message key="xmlui.administrative.mapper.BrowseItemForm.column3">Author</message>
-	<message key="xmlui.administrative.mapper.BrowseItemForm.column4">Title</message>
+	<message key="xmlui.administrative.mapper.BrowseItemForm.column2">مجموعه</message>
+	<message key="xmlui.administrative.mapper.BrowseItemForm.column3">نویسنده</message>
+	<message key="xmlui.administrative.mapper.BrowseItemForm.column4">عنوان</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.no_remove">You need the REMOVE privilege on this collection to be able to unmap items from this collection.</message>
 
 	<!-- General tags for collection management -->
-	<message key="xmlui.administrative.collection.general.collection_trail">Collections</message>
+	<message key="xmlui.administrative.collection.general.collection_trail">مجموعه ها</message>
 	<message key="xmlui.administrative.collection.general.options_metadata">Edit Metadata</message>
 	<message key="xmlui.administrative.collection.general.options_roles">Assign Roles</message>
         <message key="xmlui.administrative.collection.general.options_curate">Curate</message>
@@ -1762,10 +1762,10 @@
         <message key="xmlui.administrative.collection.CurateCollectionForm.main_head">Curate Collection: {0}</message>
         <message key="xmlui.administrative.collection.CurateCollectionForm.title">Curate Collection</message>
         <message key="xmlui.administrative.collection.CurateCollectionForm.trail">Curator</message>
-        <message key="xmlui.administrative.collection.CurateCollectionForm.label_name">Task</message>
+        <message key="xmlui.administrative.collection.CurateCollectionForm.label_name">وظیفه</message>
 
 	<!-- org.dspace.app.xmlui.administrative.collection.DeleteCollectionConfirm.java -->
-	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.title">Confirm Deletion</message>
+	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.title">تأیید حذف</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.trail">Confirm</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.main_head">Confirm deletion for collection {0}</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionConfirm.main_para">Are you sure collection {0} should be deleted? This will delete:</message>
@@ -1776,7 +1776,7 @@
 	<!-- org.dspace.app.xmlui.administrative.collection.DeleteCollectionRoleConfirm.java -->
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.title">Confirm role deletion</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.trail">Confirm</message>
-	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_head">Confirm deletion for role {0}</message>
+	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_head">تأیید حذف برای نقش {0}</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_para_read">Are you sure you want to delete this role? Deleting this group will give READ access to all users for all items submitted to this collection from now on. Please note that this change is not retroactive. Existing items in the system will still be restricted to the members defined by the role you are about to delete.</message>
 	<message key="xmlui.administrative.collection.DeleteCollectionRoleConfirm.main_para">Are you sure you want to delete this role? All changes and customizations made to the {0} group will be lost and would have to be created anew.</message>
 
@@ -1784,7 +1784,7 @@
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.title">Edit Collection Metadata</message>
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.trail">Metadata</message>
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.main_head">Edit Collection: {0}</message>
-	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.label_name">Name</message>
+	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.label_name">نام</message>
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.label_short_description">Short Description</message>
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.label_introductory_text">Introductory text (HTML)</message>
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.label_copyright_text">Copyright text (HTML)</message>
@@ -1802,8 +1802,8 @@
 	<message key="xmlui.administrative.collection.EditCollectionMetadataForm.sysadmins_only"><nobr>(system administrators only)</nobr></message>
 
 	<!-- org.dspace.app.xmlui.administrative.collection.CreateCollectionForm.java -->
-	<message key="xmlui.administrative.collection.CreateCollectionForm.title">Create Collection</message>
-	<message key="xmlui.administrative.collection.CreateCollectionForm.trail">Create Collection</message>
+	<message key="xmlui.administrative.collection.CreateCollectionForm.title">ایجاد مجموعه</message>
+	<message key="xmlui.administrative.collection.CreateCollectionForm.trail">ایجاد مجموعه</message>
 	<message key="xmlui.administrative.collection.CreateCollectionForm.main_head">Enter Metadata for a New Collection of {0}</message>
 	<message key="xmlui.administrative.collection.CreateCollectionForm.submit_save">Create</message>
 
@@ -1857,7 +1857,7 @@
 	<message key="xmlui.administrative.ControlPanel.harvest_scheduler_head">Harvest Scheduler Controls</message>
 	<message key="xmlui.administrative.ControlPanel.harvest_label_status">Status</message>
 	<message key="xmlui.administrative.ControlPanel.harvest_status_refresh">(refresh)</message>
-	<message key="xmlui.administrative.ControlPanel.harvest_label_actions">Actions</message>
+	<message key="xmlui.administrative.ControlPanel.harvest_label_actions">اعمال</message>
 	<message key="xmlui.administrative.ControlPanel.harvest_submit_start">Start Harvester</message>
 	<message key="xmlui.administrative.ControlPanel.harvest_submit_reset">Reset Harvest Status</message>
 	<message key="xmlui.administrative.ControlPanel.harvest_submit_resume">Resume</message>
@@ -1900,12 +1900,12 @@
         <message key="xmlui.administrative.community.CurateCommunityForm.main_head">Curate Community: {0}</message>
         <message key="xmlui.administrative.community.CurateCommunityForm.title">Curate Community</message>
         <message key="xmlui.administrative.community.CurateCommunityForm.trail">Curator</message>
-        <message key="xmlui.administrative.community.CurateCommunityForm.label_name">Task</message>
+        <message key="xmlui.administrative.community.CurateCommunityForm.label_name">وظیفه</message>
 
 	<!-- org.dspace.app.xmlui.administrative.community.DeleteCommunityConfirm.java -->
-	<message key="xmlui.administrative.community.DeleteCommunityConfirm.title">Confirm Deletion</message>
+	<message key="xmlui.administrative.community.DeleteCommunityConfirm.title">تأیید حذف</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.trail">Confirm</message>
-	<message key="xmlui.administrative.community.DeleteCommunityConfirm.main_head">Confirm deletion for community {0}</message>
+	<message key="xmlui.administrative.community.DeleteCommunityConfirm.main_head">تأیید حذف برای جامعه {0}</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.main_para">Are you sure community {0} should be deleted? This will delete:</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item1">Any collections in the community that are not contained in other communities</message>
 	<message key="xmlui.administrative.community.DeleteCommunityConfirm.confirm_item2">Any items and incomplete submissions in this community that aren't contained in other communities</message>
@@ -1915,7 +1915,7 @@
 	<!-- org.dspace.app.xmlui.administrative.community.DeleteCommunityRoleConfirm.java -->
 	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.title">Confirm role deletion</message>
 	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.trail">Confirm</message>
-	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.main_head">Confirm deletion for role {0}</message>
+	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.main_head">تأیید حذف برای نقش {0}</message>
 	<message key="xmlui.administrative.community.DeleteCommunityRoleConfirm.main_para">Are you sure you want to delete this role? All changes and customizations made to the {0} group will be lost and would have to be created anew.</message>
 
 	<!-- org.dspace.app.xmlui.administrative.community.EditCommunityMetadataForm.java -->
@@ -1923,7 +1923,7 @@
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.trail">Metadata</message>
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.main_head">Edit Metadata for Community {0}</message>
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.edit_authorizations">Edit authorization policies</message>
-	<message key="xmlui.administrative.community.EditCommunityMetadataForm.label_name">Name</message>
+	<message key="xmlui.administrative.community.EditCommunityMetadataForm.label_name">نام</message>
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.label_short_description">Short Description</message>
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.label_introductory_text">Introductory text (HTML)</message>
 	<message key="xmlui.administrative.community.EditCommunityMetadataForm.label_copyright_text">Copyright text (HTML)</message>
@@ -2049,7 +2049,7 @@
         <message key="xmlui.administrative.CurateForm.trail">Curation Tasks</message>
         <message key="xmlui.administrative.CurateForm.object_label_name">Handle of DSpace Object</message>
         <message key="xmlui.administrative.CurateForm.object_hint">Hint: Enter [your-handle-prefix]/0 to run a task across entire site (not all tasks may support this capability)</message>
-        <message key="xmlui.administrative.CurateForm.task_label_name">Task</message>
+        <message key="xmlui.administrative.CurateForm.task_label_name">وظیفه</message>
     <!-- Used by Curate<DSO>Form classes also -->
         <message key="xmlui.administrative.CurateForm.taskgroup_label_name">Choose from the following groups</message>
 
@@ -2133,8 +2133,8 @@
     <message key="xmlui.statisticsGoogleAnalytics.trail">Statistics</message>
     <message key="xmlui.statisticsGoogleAnalytics.title">Google Analytics Statistics</message>
 
-    <message key="xmlui.statisticsGoogleAnalytics.dates.startDate">Start date</message>
-    <message key="xmlui.statisticsGoogleAnalytics.dates.endDate">End date</message>
+    <message key="xmlui.statisticsGoogleAnalytics.dates.startDate">تاریخ شروع</message>
+    <message key="xmlui.statisticsGoogleAnalytics.dates.endDate">تاریخ پایان</message>
     <message key="xmlui.statisticsGoogleAnalytics.dates.refresh">Refresh</message>
 
     <message key="xmlui.statisticsGoogleAnalytics.pageViews.title">Page Views</message>
@@ -2153,45 +2153,38 @@
 
 	<!-- structural.xsl -->
 	<message key="xmlui.dri2xhtml.structural.footer-promotional">
-		<a href="http://di.tamu.edu" id="ds-logo-link">
-			<span id="ds-footer-logo">&#160;</span>
-		</a>
 		<p>
-			This website is using Manakin, a new front end for DSpace created by Texas A&amp;M University
-			Libraries. The interface can be extensively modified through Manakin Aspects and XSL based Themes.
-			For more information visit
-			<a href="http://di.tamu.edu">http://di.tamu.edu</a> and
-			<a href="http://dspace.org">http://dspace.org</a>
+			این وب سایت قرار است نسخه دوم از سهباد باشد.
 		</p>
 	</message>
-	<message key="xmlui.dri2xhtml.structural.contact-link">Contact Us</message>
-	<message key="xmlui.dri2xhtml.structural.feedback-link">Send Feedback</message>
+	<message key="xmlui.dri2xhtml.structural.contact-link">ارتباط با ما</message>
+	<message key="xmlui.dri2xhtml.structural.feedback-link">ارسال بازخورد</message>
 
-	<message key="xmlui.dri2xhtml.structural.head-subtitle">DSpace Repository</message>
+	<message key="xmlui.dri2xhtml.structural.head-subtitle">سهباد</message>
 
-	<message key="xmlui.dri2xhtml.structural.profile">Profile: </message>
-	<message key="xmlui.dri2xhtml.structural.logout">Logout</message>
-	<message key="xmlui.dri2xhtml.structural.login">Login</message>
+	<message key="xmlui.dri2xhtml.structural.profile">پروفایل: </message>
+	<message key="xmlui.dri2xhtml.structural.logout">خروج</message>
+	<message key="xmlui.dri2xhtml.structural.login">ورود</message>
 
-	<message key="xmlui.dri2xhtml.structural.search">Search DSpace</message>
-	<message key="xmlui.dri2xhtml.structural.search-advanced">Advanced Search</message>
-	<message key="xmlui.dri2xhtml.structural.search-in-community">This Community</message>
-	<message key="xmlui.dri2xhtml.structural.search-in-collection">This Collection</message>
+	<message key="xmlui.dri2xhtml.structural.search">جستجو در سهباد</message>
+	<message key="xmlui.dri2xhtml.structural.search-advanced">جستجو پیشرفته</message>
+	<message key="xmlui.dri2xhtml.structural.search-in-community">این انجمن</message>
+	<message key="xmlui.dri2xhtml.structural.search-in-collection">این مجموعه</message>
 
-	<message key="xmlui.dri2xhtml.structural.pagination-previous">Previous Page</message>
-	<message key="xmlui.dri2xhtml.structural.pagination-info">Now showing items {0}-{1} of {2}</message>
-	<message key="xmlui.dri2xhtml.structural.pagination-next">Next Page</message>
+	<message key="xmlui.dri2xhtml.structural.pagination-previous">صفحه قبلی</message>
+	<message key="xmlui.dri2xhtml.structural.pagination-info">نمایش موارد  {0}-{1} از {2}</message>
+	<message key="xmlui.dri2xhtml.structural.pagination-next">صفحه بعد</message>
 
-	<message key="xmlui.dri2xhtml.structural.link_cc">Creative Commons</message>
-	<message key="xmlui.dri2xhtml.structural.link_original_license">Original License</message>
+	<message key="xmlui.dri2xhtml.structural.link_cc">خلاقیت های مشترک</message>
+	<message key="xmlui.dri2xhtml.structural.link_original_license">مجوز اصلی</message>
 
 
 	<!-- DS-METS-1.0-MODS.xsl -->
 	<!-- DS-METS-1.0-DIM.xsl -->
 	<!-- DS-METS-1.0-QDC.xsl -->
-	<message key="xmlui.dri2xhtml.METS-1.0.no-preview">No preview available</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.no-preview">پیش نمایش در دسترس نیست</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.no-title">بدون_تایتل</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.no-author">Unknown author</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.no-author">نویسنده ناشناخته</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.non-conformant">
 		This is not a DSpace object conformant to the METS 1.0 profile and as such cannot be
         rendered effectively. You can override either the template that handles the general
@@ -2199,23 +2192,23 @@
         whatever profile you use.
     </message>
 
-	<message key="xmlui.dri2xhtml.METS-1.0.item-preview">Preview</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-title">Title</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Author</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Abstract</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Description</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-preview">پیش نمایش</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-title">عنوان</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-author">نویسنده</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">خلاصه</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-description">توضیحات</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">URI</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Date</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">Publisher</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-date">تاریخ</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">ناشر</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-subject">موضوع</message>
 
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-head">Files in this item</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-files-file">Files</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-files-name">Name</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-files-size">Size</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-files-format">Format</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-files-file">فایل ها</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-files-name">نام</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-files-size">اندازه</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-files-format">فرمت</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-view">View</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-files-description">Description</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-files-description">توضیحات</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-viewOpen">View/<wbr/>Open</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-no-files">There are no files associated with this item.</message>
 
@@ -2256,10 +2249,10 @@
 
 
 	<!-- Special pioneer model related text, wherever it might end up -->
-	<message key="xmlui.dri2xhtml.pioneer.preview">Preview</message>
-	<message key="xmlui.dri2xhtml.pioneer.date">Date</message>
-	<message key="xmlui.dri2xhtml.pioneer.title">Title</message>
-	<message key="xmlui.dri2xhtml.pioneer.author">Author</message>
+	<message key="xmlui.dri2xhtml.pioneer.preview">پیش نمایش</message>
+	<message key="xmlui.dri2xhtml.pioneer.date">تاریخ</message>
+	<message key="xmlui.dri2xhtml.pioneer.title">عنوان</message>
+	<message key="xmlui.dri2xhtml.pioneer.author">نویسنده</message>
 
 	<!-- tag used to handle the empty textarea tag added 09/28/2006 -->
 	<message key="xmlui.dri2xhtml.default.textarea.value"> </message>
@@ -2270,7 +2263,7 @@
   <message key="xmlui.dri2xhtml.mimetype.application/marc">MARC record</message>
   <message key="xmlui.dri2xhtml.mimetype.application/mathematica">Mathematica</message>
   <message key="xmlui.dri2xhtml.mimetype.application/msword">Microsoft Word</message>
-  <message key="xmlui.dri2xhtml.mimetype.application/octet-stream">Unknown</message>
+  <message key="xmlui.dri2xhtml.mimetype.application/octet-stream">ناشناخته</message>
   <message key="xmlui.dri2xhtml.mimetype.application/pdf">PDF</message>
   <message key="xmlui.dri2xhtml.mimetype.application/postscript">Postscript</message>
   <message key="xmlui.dri2xhtml.mimetype.application/sgml">SGML</message>
@@ -2300,44 +2293,44 @@
   <message key="xmlui.dri2xhtml.mimetype.application/x-tex">TeX</message>
 
   <!-- Audio-based formats -->
-  <message key="xmlui.dri2xhtml.mimetype.audio/basic">Basic Audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/flac">FLAC Audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/m4a">AAC audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/m4a-latm">AAC audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/mpeg">mp3 audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/x-aiff">AIFF audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/x-mpeg">MPEG Audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/x-ms-wma">WMA Audio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/x-ms-wmv">WMV Audio</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/basic">Basic شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/flac">FLAC شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/m4a">AAC شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/m4a-latm">AAC شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/mpeg">mp3 شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/x-aiff">AIFF شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/x-mpeg">MPEG شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/x-ms-wma">WMA شنيدارى</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/x-ms-wmv">WMV شنيدارى</message>
   <message key="xmlui.dri2xhtml.mimetype.audio/x-ogg">Ogg Vorbis</message>
   <message key="xmlui.dri2xhtml.mimetype.audio/x-pn-realaudio">RealAudio</message>
-  <message key="xmlui.dri2xhtml.mimetype.audio/x-wav">WAV audio</message>
+  <message key="xmlui.dri2xhtml.mimetype.audio/x-wav">WAV شنيدارى</message>
 
   <!-- Image-based formats -->
-  <message key="xmlui.dri2xhtml.mimetype.image/gif">GIF image</message>
-  <message key="xmlui.dri2xhtml.mimetype.image/jp2">JPEG 2000 image</message>
-  <message key="xmlui.dri2xhtml.mimetype.image/jpeg">JPEG image</message>
-  <message key="xmlui.dri2xhtml.mimetype.image/png">PNG image</message>
-  <message key="xmlui.dri2xhtml.mimetype.image/tiff">TIFF image</message>
-  <message key="xmlui.dri2xhtml.mimetype.image/x-ms-bmp">BMP image</message>
-  <message key="xmlui.dri2xhtml.mimetype.image/x-photo-cd">Photo CD</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/gif">GIF عکس</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/jp2">JPEG 2000 عکس</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/jpeg">JPEG عکس</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/png">PNG عکس</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/tiff">TIFF عکس</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/x-ms-bmp">BMP عکس</message>
+  <message key="xmlui.dri2xhtml.mimetype.image/x-photo-cd">تصویر CD</message>
 
   <!-- Text-based formats -->
-  <message key="xmlui.dri2xhtml.mimetype.text/css">CSS file</message>
-  <message key="xmlui.dri2xhtml.mimetype.text/csv">CSV file</message>
+  <message key="xmlui.dri2xhtml.mimetype.text/css">CSS فایل</message>
+  <message key="xmlui.dri2xhtml.mimetype.text/csv">CSV فایل</message>
   <message key="xmlui.dri2xhtml.mimetype.text/html">HTML</message>
   <message key="xmlui.dri2xhtml.mimetype.text/javascript">Javascript</message>
-  <message key="xmlui.dri2xhtml.mimetype.text/plain">Text file</message>
-  <message key="xmlui.dri2xhtml.mimetype.text/richtext">RTF file</message>
+  <message key="xmlui.dri2xhtml.mimetype.text/plain">فایل متنی</message>
+  <message key="xmlui.dri2xhtml.mimetype.text/richtext">RTF فایل</message>
   <message key="xmlui.dri2xhtml.mimetype.text/xml">XML</message>
 
   <!-- Video-based formats -->
-  <message key="xmlui.dri2xhtml.mimetype.video/avi">AVI video</message>
+  <message key="xmlui.dri2xhtml.mimetype.video/avi">AVI ويدئو</message>
   <message key="xmlui.dri2xhtml.mimetype.video/mjp2">Motion JPEG 2000</message>
-  <message key="xmlui.dri2xhtml.mimetype.video/mpeg">MPEG video</message>
-  <message key="xmlui.dri2xhtml.mimetype.video/mpeg2">MPEG-2 video</message>
-  <message key="xmlui.dri2xhtml.mimetype.video/mp4">MPEG-4 video</message>
-  <message key="xmlui.dri2xhtml.mimetype.video/quicktime">QuickTime video</message>
+  <message key="xmlui.dri2xhtml.mimetype.video/mpeg">MPEG ويدئو</message>
+  <message key="xmlui.dri2xhtml.mimetype.video/mpeg2">MPEG-2 ويدئو</message>
+  <message key="xmlui.dri2xhtml.mimetype.video/mp4">MPEG-4 ويدئو</message>
+  <message key="xmlui.dri2xhtml.mimetype.video/quicktime">QuickTime ويدئو</message>
 
   <!-- explanatory messages for choice authority confidence values -->
   <message key="xmlui.authority.confidence.description.cf_unset">Confidence was never recorded for this value</message>
@@ -2358,18 +2351,18 @@
      - So, positional parameters are @1@, @2@, etc.
     -->
   <message key="xmlui.ChoiceLookupTransformer.title">DSpace Value Lookup</message>
-  <message key="xmlui.ChoiceLookupTransformer.accept">Accept</message>
-  <message key="xmlui.ChoiceLookupTransformer.add">Add</message>
-  <message key="xmlui.ChoiceLookupTransformer.cancel">Cancel</message>
-  <message key="xmlui.ChoiceLookupTransformer.more">See More Results</message>
+  <message key="xmlui.ChoiceLookupTransformer.accept">پذیرش</message>
+  <message key="xmlui.ChoiceLookupTransformer.add">اضافه کردن</message>
+  <message key="xmlui.ChoiceLookupTransformer.cancel">لغو</message>
+  <message key="xmlui.ChoiceLookupTransformer.more">نمایش نتایج بیشتر</message>
   <!-- params are: start, end, total-count, search-value -->
   <message key="xmlui.ChoiceLookupTransformer.results">Results @1@ to @2@ of @3@ for "@4@"</message>
-  <message key="xmlui.ChoiceLookupTransformer.fail">Failed to load choice data: </message>
+  <message key="xmlui.ChoiceLookupTransformer.fail">داده های انتخابی بارگیری نشد: </message>
   <message key="xmlui.ChoiceLookupTransformer.lookup">Lookup</message>
 
   <!-- Choice Lookup - sample config for dc.publisher field -->
-  <message key="xmlui.ChoiceLookupTransformer.field.dc_publisher.help">Name of Publisher</message>
-  <message key="xmlui.ChoiceLookupTransformer.field.dc_publisher.title">Look up Publisher</message>
+  <message key="xmlui.ChoiceLookupTransformer.field.dc_publisher.help">نام ناشر</message>
+  <message key="xmlui.ChoiceLookupTransformer.field.dc_publisher.title">نگاه ناشر</message>
   <!-- Params are: search-value -->
   <message key="xmlui.ChoiceLookupTransformer.field.dc_publisher.nonauthority">Non-authority value: @1@</message>
 
@@ -2381,128 +2374,129 @@
   <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.nonauthority">Local value "@1@" (not in Naming Authority)</message>
 
   <!-- mobile theme -->
-  <message key="xmlui.mobile.home_mobile">DSpace Mobile</message>
-  <message key="xmlui.mobile.search_all">Search ALL</message>
-  <message key="xmlui.mobile.browse_all">Browse ALL by</message>
-  <message key="xmlui.mobile.browse_date">Date</message>
-  <message key="xmlui.mobile.browse_author">Author</message>
-  <message key="xmlui.mobile.browse_title">Title</message>
+  <message key="xmlui.mobile.home_mobile">پایگاه داده</message>
+  <message key="xmlui.mobile.search_all">جستجو همه</message>
+  <message key="xmlui.mobile.browse_all">جستجو همه بر اساس</message>
+  <message key="xmlui.mobile.browse_date">تاریخ</message>
+  <message key="xmlui.mobile.browse_author">نویسنده</message>
+  <message key="xmlui.mobile.browse_title">عنوان</message>
   <message key="xmlui.mobile.browse_subject">موضوع</message>
-  <message key="xmlui.mobile.related_google_scholar">Related</message>
-  <message key="xmlui.mobile.items_in_google_scholar">Items in Google Scholar</message>
-  <message key="xmlui.mobile.download">Download</message>
+  <message key="xmlui.mobile.related_google_scholar">موارد مرتبط</message>
+  <message key="xmlui.mobile.items_in_google_scholar">موارد موجود در گوگل اسکولار</message>
+  <message key="xmlui.mobile.download">دانلود</message>
 
 
     <!-- Versioning -->
-    <message key="xmlui.aspect.versioning.VersioningNavigation.context_create_version">Create version of this item</message>
-    <message key="xmlui.aspect.versioning.VersioningNavigation.context_show_version_history">Show version history</message>
+    <message key="xmlui.aspect.versioning.VersioningNavigation.context_create_version">نسخه ای از این مورد را ایجاد کنید</message>
+    <message key="xmlui.aspect.versioning.VersioningNavigation.context_show_version_history">نمایش تاریخ نسخه</message>
 
-    <message key="xmlui.aspect.versioning.VersionItemForm.title">Create Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.trail">Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.head1">Create new version of item: {0}</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.submit_version">Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.submit_update_version">Update Version</message>
-    <message key="xmlui.aspect.versioning.VersionItemForm.summary">Reason for creating new version</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.title">ایجاد نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.trail">نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.head1">ایجاد نسخه جدید مورد: {0}</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.submit_version">نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.submit_update_version">بروز رسانی نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionItemForm.summary">دلیل ایجاد نسخه جدید</message>
 
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.title">Update Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.trail">Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.head1">Update version of item: {0}</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_version">Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_update_version">Update Version</message>
-    <message key="xmlui.aspect.versioning.VersionUpdateForm.summary">Summary</message>
-
-
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.title">Confirm Deletion</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.trail">Confirm deletion</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.head1">Confirm Deletion(s)</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para1">Are you sure you want to delete these versions. </message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para2">PLEASE NOTE: That by deleting these versions, the associated items will no longer be accessible.</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column1">Version</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column2">Item</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column3">Editor</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column4">Date</message>
-    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column5">Summary</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.title">بروز رسانی نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.trail">نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.head1">به روز رسانی نسخه مورد: {0}</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_version">نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.submit_update_version">بروز رسانی نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionUpdateForm.summary">خلاصه</message>
 
 
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.title">Restore Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.trail">Restore Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.head1">Restore Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.para1">Are you sure you want to restore this version:</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.column1">Version</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.column2">Editor</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.column3">Date</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.column4">Summary</message>
-    <message key="xmlui.aspect.versioning.RestoreVersionForm.restore">Restore</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.title">تأیید حذف</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.trail">تأیید حذف</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.head1">تأیید حذف (ها)</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para1">آیا مطمئن هستید که میخواهید این نسخهها را حذف کنید؟ </message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.para2">لطفا توجه داشته باشید: با حذف این نسخه ها، موارد مرتبط دیگر قابل دسترسی نخواهد بود.</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column1">نسخه</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column2">مورد</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column3">ویرایشگر</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column4">تاریخ</message>
+    <message key="xmlui.aspect.versioning.DeleteVersionsConfirm.column5">خلاصه</message>
 
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.head2">Version History</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column1">Version</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column2">Item</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column3">Editor</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column4">Date</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column5">Summary</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.column6">Actions</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.restore">Restore</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.update">Update</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.legend">*Selected version</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.delete">Delete Versions</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.return">Return</message>
-    <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(collection administrators only)</message>
 
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_head">Notice</message>
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_help">This is not the latest version of this item. The latest version can be found at: </message>
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_head">Notice</message>
-    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">A more recent version of this item is in the Workflow.</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.title">بازگرداندن نسخه</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.trail">بازگرداندن نسخه</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.head1">بازگرداندن نسخه</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.para1">آیا مطمئن هستید که میخواهید این نسخه را بازیابی کنید:</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.column1">نسخه</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.column2">ویرایشگر</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.column3">تاریخ</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.column4">خلاصه</message>
+    <message key="xmlui.aspect.versioning.RestoreVersionForm.restore">بازگرداندن</message>
 
-    <message key="xmlui.aspect.sherpa.submission.consult">To check the copyright and self-archiving policies per journal or publisher, please consult <a href="http://www.sherpa.ac.uk/">SHERPA/RoMEO</a>.</message>
-    <message key="xmlui.aspect.sherpa.submission.title">Publisher information</message>
-    <message key="xmlui.aspect.sherpa.submission.journal">Journal: </message>
-    <message key="xmlui.aspect.sherpa.submission.publisher">Publisher information: </message>
-    <message key="xmlui.aspect.sherpa.submission.colour">RoMEO Colour: </message>
-    <message key="xmlui.aspect.sherpa.submission.more">(More info)</message>
-    <message key="xmlui.aspect.sherpa.submission.green">green</message>
-    <message key="xmlui.aspect.sherpa.submission.blue">blue</message>
-    <message key="xmlui.aspect.sherpa.submission.white">white</message>
-    <message key="xmlui.aspect.sherpa.submission.yellow">yellow</message>
-    <message key="xmlui.aspect.sherpa.submission.gray">gray</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.head2">تاریخچه نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column1">نسخه</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column2">مورد</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column3">ویرایشگر</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column4">تاریخ</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column5">خلاصه</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.column6">اعمال</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.restore">بازگرداندن</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.update">به روز رسانی</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.legend">* نسخه انتخابی</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.delete">حذف نسخه ها</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.return">برگشت</message>
+    <message key="xmlui.aspect.versioning.VersionHistoryForm.collection_admins_only">(فقط مدیران مجموعه)
+</message>
+
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_head">اطلاع</message>
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.new_version_help">این آخرین نسخه این مورد نیست. آخرین نسخه را می توانید در زیر دریافت کنید.</message>
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_head">اطلاع</message>
+    <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">نسخه جدیدتر این مورد در گردش کار است.</message>
+
+    <message key="xmlui.aspect.sherpa.submission.consult">برای بررسی قوانین حق تکثیر و خودداری از هر مجله یا ناشر، لطفا با <a href="http://www.sherpa.ac.uk/"> SHERPA / RoMEO </a> مشورت کنید.</message>
+    <message key="xmlui.aspect.sherpa.submission.title">اطلاعات ناشر</message>
+    <message key="xmlui.aspect.sherpa.submission.journal">مجله: </message>
+    <message key="xmlui.aspect.sherpa.submission.publisher">اطلاعات ناشر: </message>
+    <message key="xmlui.aspect.sherpa.submission.colour">رنگ RoMEO: </message>
+    <message key="xmlui.aspect.sherpa.submission.more">(اطلاعات بیشتر)</message>
+    <message key="xmlui.aspect.sherpa.submission.green">سبز</message>
+    <message key="xmlui.aspect.sherpa.submission.blue">آبی</message>
+    <message key="xmlui.aspect.sherpa.submission.white">سفید</message>
+    <message key="xmlui.aspect.sherpa.submission.yellow">زرد</message>
+    <message key="xmlui.aspect.sherpa.submission.gray">خاکستری</message>
     <!-- End Versioning -->
 
 
-    <message key="xmlui.mirage2.itemSummaryView.MetaData">Metadata</message>
-    <message key="xmlui.mirage2.itemSummaryView.Collections">Collections</message>
+    <message key="xmlui.mirage2.itemSummaryView.MetaData">متادیتا</message>
+    <message key="xmlui.mirage2.itemSummaryView.Collections">مجموعه ها</message>
 
-    <message key="xmlui.mirage2.discovery.reset">Reset</message>
-    <message key="xmlui.mirage2.discovery.newFilter">Add New Filter</message>
-    <message key="xmlui.mirage2.discovery.showAdvancedFilters">Show Advanced Filters</message>
-    <message key="xmlui.mirage2.discovery.hideAdvancedFilters">Hide Advanced Filters</message>
+    <message key="xmlui.mirage2.discovery.reset">بازنشاندن</message>
+    <message key="xmlui.mirage2.discovery.newFilter">اضافه کردن فیلتر جدید</message>
+    <message key="xmlui.mirage2.discovery.showAdvancedFilters">نمایش فیلترهای پیشرفته</message>
+    <message key="xmlui.mirage2.discovery.hideAdvancedFilters">مخفی کردن فیلترهای پیشرفته</message>
 
 
-    <message key="xmlui.mirage2.forms.instancedCompositeFields.add">Add</message>
-    <message key="xmlui.mirage2.forms.instancedCompositeFields.remove">Remove</message>
+    <message key="xmlui.mirage2.forms.instancedCompositeFields.add">اضافه کردن</message>
+    <message key="xmlui.mirage2.forms.instancedCompositeFields.remove">حذف</message>
     <message key="xmlui.mirage2.forms.instancedCompositeFields.noSuggestionError">ERROR: Input field with "suggest" (autocomplete) choice behavior is not implemented for Composite (e.g. "name") fields.</message>
     <message key="xmlui.mirage2.forms.nonInstancedCompositeFields.noSuggestionError">ERROR: Input field with "suggest" (autocomplete) choice behavior is not implemented for Composite (e.g. "name") fields.</message>
-    <message key="xmlui.mirage2.forms.nonCompositeFieldSet.add">Add</message>
-    <message key="xmlui.mirage2.forms.nonCompositeFieldSet.remove">Remove</message>
+    <message key="xmlui.mirage2.forms.nonCompositeFieldSet.add">اضافه کردن</message>
+    <message key="xmlui.mirage2.forms.nonCompositeFieldSet.remove">حذف</message>
 
-    <message key="xmlui.mirage2.page-structure.aboutThisRepository">About This Repository</message>
-    <message key="xmlui.mirage2.page-structure.toggleNavigation">Toggle navigation</message>
+    <message key="xmlui.mirage2.page-structure.aboutThisRepository">درباره این مخزن</message>
+    <message key="xmlui.mirage2.page-structure.toggleNavigation">تغییر ناوبری</message>
 
-    <message key="xmlui.mirage2.page-structure.heroUnit.title">About This Repository</message>
+    <message key="xmlui.mirage2.page-structure.heroUnit.title">درباره این مخزن</message>
     <message key="xmlui.mirage2.page-structure.heroUnit.content">To add your own content to this page, edit webapps/xmlui/themes/Mirage2/lib/xsl/core/page-structure.xsl and add your own content to the title, trail, and body. If you wish to add additional pages, you will need to create an additional xsl:when block and match the request-uri to whatever page you are adding. Currently, static pages created through altering XSL are only available under the URI prefix of page/.</message>
 
-    <message key="xmlui.mirage2.navigation.rss.feed">feed</message>
+    <message key="xmlui.mirage2.navigation.rss.feed">موارد</message>
 
-    <message key="xmlui.mirage2.choice-authority-control.loading">Loading...</message>
+    <message key="xmlui.mirage2.choice-authority-control.loading">درحال بارگذاری ...</message>
 
-    <message key="xmlui.mirage2.item-list.thumbnail">Thumbnail</message>
+    <message key="xmlui.mirage2.item-list.thumbnail">تصویر بند انگشتی</message>
 
 
     <!-- org.dspace.app.xmlui.Submission.submit.StartSubmissionLookupStep -->
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_lookup">Search</message>
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.title">Publication Search</message>
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.lookup_help">Fill in a publication ID, DOI, Title or Author and then press "Search".  A list of all matching publications will be shown to you to select in order to proceed with the submission process.</message>
-    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_publication_item">Imported publication Record</message>
-    <message key="xmlui.Submission.submit.progressbar.lookup">Lookup</message>
-    <message key="xmlui.ChoiceLookupTransformer.lookup">Lookup</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_lookup">جستجو</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.title">جستجو انتشار</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.lookup_help">یک شناسه انتشار، DOI، Title یا Author را وارد کنید و سپس "جستجو" را فشار دهید. لیستی از تمام نشریات مطابق با شما برای انتخاب به منظور ادامه روند ارسال، نشان داده می شود.</message>
+    <message key="xmlui.Submission.submit.StartSubmissionLookupStep.submit_publication_item">رکورد انتشار وارد شده</message>
+    <message key="xmlui.Submission.submit.progressbar.lookup">جستجو</message>
+    <message key="xmlui.ChoiceLookupTransformer.lookup">جستجو</message>
 
 
 </catalogue>
